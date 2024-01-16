@@ -1,0 +1,27 @@
+Hi Swamy,
+
+Can you please update in the CIR website(upcoming presenters page) for the upcoming feb presentation? Below are the details
+
+Presenter Name: Krishna Kamisetty
+
+Topic -  Large language models and Data
+Topic covers overview of LLMs, RAG, Data Analysis use cases, suggested reading and QA
+
+Overview -
+A LLAM 2 model generated quick summary about me.
+
+With over 17 years of experience in IT consulting and a proven track record of delivering business process innovation and cost savings, I possess a unique blend of technical and leadership skills. My expertise spans systems architecture, web and mobile application architecture, Agile practices, CI/CD pipelines, SAP HANA data warehouse implementation, and technical leadership.
+
+In my current role at Lockheed Martin since 2014, I have successfully led various initiatives that have generated significant business value. I created a new business technical capability using SAP HANA and Artificial Intelligence techniques, empowering cross-functional processes and affecting change through Aero Vision analytics application. I also implemented DevSecOps and DataOps concepts, automating SAP BODS build and deployment, and adopted the same process for Tableau and BOE, resulting in a new Aero DataOps team.
+
+Additionally, I led a Robotic Process Automation trade study, mentored initial teams, and implemented and knowledge transferred first CELONIS process mining models. I also implemented Infrastructure as code (IaC) and automated installations using Terraform and Ansible, saving 90% of new environments provisioning and installation effort on AWS.
+
+My recent certifications include UT Austin's Post Graduate Program in Artificial Intelligence and Machine Learning for Business Applications 2021, Udacity AI Product Manager 2022, UC - MBSE 2022, and Generative AI for Business with MSFT Azure OpenAI Program 2023.
+
+I am a results-driven professional with a passion for leveraging technology to drive business process innovation and growth. I am committed to staying at the forefront of the latest technologies and best practices.
+
+
+
+
+
+Santosh Chaganti

@@ -1,0 +1,898 @@
+<h1><span style="background-color: #00ffff">* Honors and Past Events - 2023 *</span></h1>
+<!-- Swamy Edit BEGIN --><!-- /wp:tadv/classic-paragraph -->
+<h3><strong>IEEE Denver Computer, Information Theory and Robotics Society &amp; Computational Intelligence Society – Technical Meeting</strong></h3>
+
+<h2>Nov 15, 2023, 6:00 PM – 7:00 PM (MDT)</h2>
+<h4>Denver IEEE Computer Society Guest Lecturer</h4>
+<h3><strong>Caleb Escobedo</strong></h3>
+<div class="bio">Caleb Escobedo is a fifth year Computer Science PhD student at the University of Colorado Boulder. Mr. Escobedo’s research focuses on novel close-proximity (&lt; 15cm) sensor development and sensor integration with dynamic robot arm movement. Mr. Escobedo spent the last year working at the Samsung Artificial Intelligence Center – New York on the Novel Sensors Team, advised by Daewon Lee and Volkan Isler. Within Samsung, Mr. Escobedo published three papers about using piezoelectric–based sensors to detect close–proximity and contact with nearby objects at the International Conference on Robotics and Automation (ICRA) and the International Conference on Intelligent Robots and Systems (IROS) 2023 and is preparing for additional submissions at ICRA 2024. Mr. Escobedo is member of the Human Interaction and Robotics (HIRO) group at the University of Colorado Boulder, headed by Alessandro Roncone, where he leads the HIRO Robotic Skin Project in development of software and hardware required for full-surface robot close–proximity and contact detection. Mr. Escobedo has developed several software stacks integrating real–time redundant robot manipulator inverse kinematics with data from custom sensors placed on the robot surface, and his recent publications with the HIRO group include a IROS 2023 acceptance on trajectory planning with contact in cluttered environments, and a submission to ICRA 2024 introducing custom hardware for tactile sensing. While in New York, NY. Mr. Escobedo was the lead student organizer for the Robotics: Science and Systems (RSS) 2022 workshop titled Close–Proximity Human–Robot Collaboration: Challenges and Opportunities hosted at Columbia University.</div>
+<div class="presentation-title"><strong>Presentation: Robot Arm Collision Avoidance and Onboard Sensors </strong></div>
+<div class="abstract"><strong>Abstract:</strong> Sensors are required to detect obstacles near a robot manipulator. While depth cameras are the most common scene perception technology, we look at alternatives that give information originating from the robot body itself (on-board sensors). For robots to be physically located within human–laden environments, advances are needed in both control and sensing technology. We will look at formulations and execution of real-time control methods for robot manipulator collision avoidance around dynamic objects and how to perceive objects in real-time.</div>
+<p style="margin-left: 20px;padding-left: 10px">Location: <a href="https://goo.gl/maps/mAzMXoXVRYwPVRFx5" target="_blank" rel="noopener">University of Denver Ritchie School of Engineering and Computer Science (2155 E Wesley Ave, Denver, CO 80208), Room 300</a></p>
+<p style="margin-left: 20px;padding-left: 10px">Parking: Free street parking immediately around the building (mainly north and south). Paid parking at $2/hr is available in lots immediately <a href="https://goo.gl/maps/3ha6wF9NJEp8sNEJ8" target="_blank" rel="noopener">north (off E Iliff Ave)</a> and <a href="https://goo.gl/maps/wjVJeK3CD48swPGm9" target="_blank" rel="noopener">south (off E Wesley Ave)</a> of the RSECS building.</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: Everyone is welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<p>&nbsp;</p>
+<!-- Swamy Edit END --><!-- /wp:tadv/classic-paragraph -->
+<h3><strong>IEEE Denver Computer, Information Theory &amp; Robotics Society, Computational Intelligence Society, Engineering in Medicine &amp; Biology Society, Life Member Affinity Group – Technical Meeting</strong></h3>
+<h2>Sep 20, 2023, 6:00 PM – 7:00 PM (MDT)</h2>
+<h4>Denver IEEE Computer Society Guest Lecturer</h4>
+<h3><strong>Dr. Jeremy Slater</strong><strong><img class="wp-image-1227 alignright imageSeven" src="https://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2023/05/slater.jpg" alt="Dr. Jeremy Slater" width="200" /></strong></h3>
+<div>
+<ul class="affiliations">
+<li>Fellow of the American Academy of Neurology, the American Epilepsy Society, and the American Clinical Neurophysiology</li>
+<li>Stratus Chief Medical Officer</li>
+<li>Doctor of Medicine</li>
+</ul>
+</div>
+<div class="bio">Dr. Slater holds a Bachelor of Science in Molecular Biophysics and Biochemistry from Yale University, and Doctor of Medicine from the University of Pittsburgh School of Medicine. Dr. Slater completed his postgraduate training in Internal Medicine, Neurology, and Epilepsy, where he assumed the role of Chief Resident of Neurology at the University of Miami School of Medicine. Dr. Slater has held academic appointments at institutions such as the University of Miami School of Medicine, University of North Dakota School of Medicine, and The University of Texas Medical School at Houston, including various directorial and administrative roles across various hospitals and medical institutions, impacting areas from Epilepsy Monitoring to Clinical Neurophysiology. Dr. Slater served as the Director of the Texas Comprehensive Epilepsy Program from 2005 through 2018 and currently serves as the Chief Medical Officer at Stratus, a role he has held since 2018. Dr. Slater is board certified by the American Board of Psychiatry and Neurology and the American Board of Clinical Neurophysiology and has been recognized as a Fellow of the American Academy of Neurology, the American Epilepsy Society, and the American Clinical Neurophysiology Society. Dr. Slater has published numerous articles in peer-reviewed journals and given many invited lectures at national and international symposiums, served as an investigator for numerous clinical trials of novel anticonvulsants and medical devices. Dr. Slater's early research work focused on the potential for applying techniques of the developing field of artificial neural networks to classification problems in clinical neurophysiology. More recent research has focused on changes to brain electrical activity related to drowsiness and exploring differing deep learning architectures for classification of EEG signal abnormalities.</div>
+<div class="presentation-title"><strong>Presentation: EEG, Machine Learning, and Artificial Intelligence – Applications and Progress</strong></div>
+<div class="abstract"><strong>Abstract:</strong> This talk will explore the intersection of artificial intelligence (AI) and electroencephalography (EEG). The first fundamental question discussed will be why we require the assistance of machines despite existing human capabilities. This will be followed by a necessarily incomplete historical narrative on the application of AI to EEG, looking at the impact of advances in software and hardware on the clinical care of patients. This will lead into a discussion of the pitfalls and obstacles that prevent or slow the adoption of AI for EEG analysis. The talk will conclude with speculation about future developments and their potential impact on clinical care.</div>
+<p style="margin-left: 20px;padding-left: 10px">Location: <a href="https://goo.gl/maps/mAzMXoXVRYwPVRFx5" target="_blank" rel="noopener">University of Denver Ritchie School of Engineering and Computer Science (2155 E Wesley Ave, Denver, CO 80208), Room 410</a></p>
+<p style="margin-left: 20px;padding-left: 10px">Parking: Free street parking immediately around the building (mainly north and south). Paid parking at $2/hr is available in lots immediately <a href="https://goo.gl/maps/3ha6wF9NJEp8sNEJ8" target="_blank" rel="noopener">north (off E Iliff Ave)</a> and <a href="https://goo.gl/maps/wjVJeK3CD48swPGm9" target="_blank" rel="noopener">south (off E Wesley Ave)</a> of the RSECS building.</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: Everyone is welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr /><!-- /wp:tadv/classic-paragraph -->
+<h3><strong>IEEE Denver Computer, Information Theory, and Robotics Society &amp; Computational Intelligence Society – Technical Meeting</strong></h3>
+<h2>May 17, 2023, 6:00 PM - 7:00 PM (MDT)</h2>
+<h4>Denver IEEE Computer Society Guest Lecturer</h4>
+<h3>Dr. Zhao Han<strong> <img class="wp-image-1227 alignright imageSeven" src="https://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2023/03/zhaohan.jpg" alt="Dr. Zhao Han" width="200" /> </strong></h3>
+<p>&nbsp;</p>
+<div>
+<ul class="affiliations">
+<li>Denver IEEE Computer Society Guest Lecturer</li>
+<li>Postdoctoral Research Fellow, Colorado School of Mines</li>
+</ul>
+</div>
+<div class="bio">Dr. Han holds a Ph.D. in Computer Science from UMass Lowell in the HRI Lab, directed by AAAI Fellow Dr. Holly Yanco. Previously, he spent time in Canada and received his M.S. (advised by Dr. Carson Leung in the Database and Data Mining Lab) and B.S. degrees in Computer Science from the University of Manitoba. Dr Han is currently a Post-Doctoral Fellow at Colorado School of Mines and will start as an Assistant Professor in the Computer Science and Engineering department at the University of South Florida in August 2023. Dr. Han received the best long-paper award at INLG 2022 and the best late-breaking report third prize at HRI 2022. Previously, he had led teams to win multiple robot competitions, including first place in the Panasonic Prototype 3D LiDAR Challenge and second place in the FetchIt Mobile Manipulation Challenge at ICRA 2019. In addition to research, he received a university-wide Mines Diversity, Inclusion, and Access (DI&amp;A) Award in 2022.</div>
+<div class="presentation-title"><strong>Presentation: Bridging The Gap Between Robots and Humans Through Explainability </strong></div>
+<div class="abstract"><strong>Abstract:</strong> Robots are traditionally placed behind fences for autonomous pick-and-place tasks. Today, we are witnessing robots moving to work with humans. They will not only need to manipulate but also hand objects to people and explain when autonomy fails. In this talk, I will start with how I tackled challenges in mobile manipulation tasks in a collaborative environment and a better way to let objects go for fluent human-robot handovers. Then I will focus on high-level hierarchical explanation generation algorithms using behavior trees and finer-level references for preferred concise explanations. This includes reference production through a cognitive status-informed approach and mixed-reality robot behavior replays to reason about objects no longer present. Finally, I will discuss how augmented reality can enable physically limited robots to gesture.</div>
+<p style="margin-left: 20px;padding-left: 10px">Invited: Everyone is welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr /><!-- /wp:tadv/classic-paragraph -->
+<h3><strong>IEEE Denver Computer, Information Theory, and Robotics Society &amp; Computational Intelligence Society – Technical Meeting</strong></h3>
+<h2>April 19, 2023, 6:00 PM - 8:00 PM (MDT)</h2>
+<h4>Denver IEEE Computer Society Guest Lecturer</h4>
+<h3>Dr. Dongcheng He<strong> <img class="wp-image-1227 alignright imageSeven" src="https://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2023/03/dongcheng-he2.jpg" alt="Dr. Dongcheng He" width="200" /> </strong></h3>
+<p>&nbsp;</p>
+<div>
+<ul class="affiliations">
+<li>Denver IEEE Computer Society Guest Lecturer</li>
+<li>Postdoctoral Research Fellow, School of Optometry, University of California, Berkeley</li>
+</ul>
+</div>
+<div class="bio">Dr. Dongcheng He is currently a Postdoctoral Research Fellow in the School of Optometry and Vision Science, University of California, Berkeley. Dr. He performed internships at the National University of Singapore and Wuhan National Laboratory for Optoelectronics (China), respectively, while studying for his B.Eng. degree in Telecommunications Engineering from Huazhong University of Science and Technology, China, which he received in 2017. Dr. He has worked at the University of Denver as a Graduate Research/Service Assistant for five years, receiving his Ph.D. degree in Electrical and Computer Engineering in 2023. Dr. He has worked in the field of cognitive and computational neuroscience as well as having conducted interdisciplinary research. Dr. He's doctoral work investigated reverse-engineering of the brain and focused on how the brain uses reference frames in processing visual information, in storing it in memory, and in guiding goal-directed action. In his postdoctoral research, he studies cortical adaptation due to vision loss using psychophysical methods and neuroimaging techniques. Dr. He's research interests include brain-inspired algorithms for machine learning, reference frames in human perception, computational neural models for visual processing, and neuroimaging technology such as EEG and fNIRS.</div>
+<div class="presentation-title"><strong>Presentation: A Neural Model for Relative-Motion Perception </strong></div>
+<div class="abstract"><strong>Abstract:</strong> Our visual system uses a variety of reference frames. Beginning from the retinas, through the optics of the eye, images of neighboring points in the environment are mapped onto neighboring photoreceptors in the retina. The resulting retinal stimulus representations are called retinotopic maps. However, the perception of motion doesn’t only depend on the retinotopic reference-frame, but also on choosing and applying non-retinotopic reference-frames based on the motion signals to be interpreted. In this study, we propose a neural model that implements the common-fate principle for non-retinotopic reference- frame selection. The first layer of the model extracts retinotopic motion signals. Through synaptic projections, the next layer computes the common-motion vector, which is then used as a reference-frame. Based on the determined non-retinotopic reference-frame, later layers compute the relative motion of each visual element. This talk will discuss the neural structures, electrical-circuit abstracts for neural behaviors, and mathematical descriptions used in this project. It will also show the simulation results of this model with multiple classical relative motion stimuli, including the three-dot, rotating-wheel, and point-walker paradigms. Finally, the performance of this model will be compared with the results of our psychophysical experiments and previously proposed models.</div>
+<p style="margin-left: 20px;padding-left: 10px">Location: <a href="https://goo.gl/maps/mAzMXoXVRYwPVRFx5" target="_blank" rel="noopener">University of Denver Ritchie School of Engineering and Computer Science (2155 E Wesley Ave, Denver, CO 80208)</a>, Room 410</p>
+<p style="margin-left: 20px;padding-left: 10px">Parking: Free street parking immediately around the building (mainly north and south). Paid parking at $2/hr is available in lots immediately <a href="https://goo.gl/maps/3ha6wF9NJEp8sNEJ8" target="_blank" rel="noopener">north (off E Iliff Ave)</a> and <a href="https://goo.gl/maps/wjVJeK3CD48swPGm9" target="_blank" rel="noopener">south (off E Wesley Ave)</a> of the RSECS building.</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: Everyone is welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<!-- /wp:tadv/classic-paragraph --><hr /><hr /><!-- /wp:tadv/classic-paragraph -->
+<h3><strong>IEEE Denver Computer, Information Theory, and Robotics Society – Technical Meeting</strong></h3>
+<h2>March 15, 2023 6:00 PM - 7:30 PM</h2>
+<h4>Denver IEEE Computer Society Guest Lecturer</h4>
+<h3>Dr. Derek Wise<strong><img class=" wp-image-1227 alignright" src="https://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2023/01/derek_wise_1.png" alt="Dr. Derek Wise" width="200" /></strong></h3>
+<p>&nbsp;</p>
+<div>
+<ul class="affiliations">
+<li>Denver IEEE Computer Society Guest Lecturer</li>
+<li>Research Engineer: Autonomy/AI and Quantum Technologies, Lockheed Martin</li>
+</ul>
+</div>
+<div class="bio">Dr. Derek Wise is a Senior Staff AI Research Engineer at Lockheed Martin. His main current areas of focus include quantum technologies, artificial intelligence and autonomy. Dr. Wise has a background in fundamental physics, especially particle physics and classical and quantum gravity, geometry and applied category theory. He has also worked on a range of other problems in the mathematical sciences, such as computer vision, natural language processing, game theory, radiation effects on electronics, environmental science, astrodynamics, and navigation. Dr. Wise holds a Ph.D. in Mathematics from the University of California, Riverside. He has been a mathematics professor at Concordia University, St Paul, and held postdoctoral research positions at the University of California, Davis, and at the Mathematics Institute and the Institute for Quantum Gravity at the University of Erlangen (Germany).</div>
+<div class="presentation-title"><strong>Presentation: Categories for Knowledge Representation</strong></div>
+<div class="abstract"><strong>Abstract:</strong> Rigorous knowledge representation is essential to modeling engineered systems, ensuring interoperability and extensibility, and to the design of systems with artificial intelligence capable of processing knowledge autonomously or in collaboration with humans. Human knowledge is often centered around binary relationships, which explains why directed graphs, and graph databases built on them, are frequently used for knowledge capture. However, knowledge is also <em>compositional</em>, in that relationships can be composed to form new relationships. In this context, I will review <em>categories</em> as a generalization of graphs, as a foundation for knowledge engineering, leading up to recent work on using <em>higher category theory</em> to capture two dimensions of relationships: both relationships between individual entities and relationships between the <em>types</em> of those entities and relationships.</div>
+<p style="margin-left: 20px;padding-left: 10px">Location: <a href="https://goo.gl/maps/mAzMXoXVRYwPVRFx5" target="_blank" rel="noopener">University of Denver Ritchie School of Engineering and Computer Science</a>, Room 410</p>
+<p style="margin-left: 20px;padding-left: 10px">Parking: Free street parking immediately around the building (mainly north and south). Paid parking at $2/hr is available in lots immediately <a href="https://goo.gl/maps/3ha6wF9NJEp8sNEJ8" target="_blank" rel="noopener">north (off E Iliff Ave)</a> and <a href="https://goo.gl/maps/wjVJeK3CD48swPGm9" target="_blank" rel="noopener">south (off E Wesley Ave)</a> of the RSECS building.</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<p style="margin-left: 20px;padding-left: 10px">Note: Food will be provided by the IEEE</p>
+<hr /><hr /><!-- /wp:tadv/classic-paragraph -->
+<h1><span class="meeting-virtual"><em>Virtual Meeting</em></span></h1>
+<h3><strong>IEEE Denver Computer, Information Theory, and Robotics Society – Technical Meeting</strong></h3>
+<h2>February 15, 2023 7:00 PM - 8:00 PM (MST)</h2>
+<h4>Denver IEEE Computer Society Guest Lecturer</h4>
+<h3>Eric Ericson<strong><img class=" wp-image-1227 alignright" src="https://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2023/01/eric-ericson.png" alt="Eric Ericson" width="200" /></strong></h3>
+<p>&nbsp;</p>
+<div>
+<ul class="affiliations">
+<li>Denver IEEE Computer Society Guest Lecturer</li>
+<li>IEEE Senior Member</li>
+<li>Lockheed Martin Fellow</li>
+</ul>
+</div>
+<div class="bio">Eric Ericson is a Lockheed Martin Fellow who shares more than 30 years of technical innovation and leadership in emerging technology projects. He currently leads the AI for Product Engineering and Program Management project at Lockheed Martin. Mr. Ericson’s experience includes senior technical leadership positions in multiple world class aerospace and telecommunications companies. He was Principal Architect at Level(3) Communications ($15 billion), Vice President of Technology at Telcove Communications ($1.3 billion) , Pre-merger Advisor for Cingular Telecommunications acquisition of AT&amp;T Wireless ($40 billion), and Principal Architect reporting to the CIO of Qwest Communications ($43 billion). In addition to a patent for an expert approach to <em>Systems and Methods for Managing Business Processes in an Enterprise</em>, Mr. Ericson is the holder of multiple aerospace-related trade secrets. He was lead author and editor of <cite>Expert Systems for Integrated Network Management</cite> and presenter at multiple industry-leading symposiums. Mr. Ericson holds a Bachelor of Arts degree from the University of Colorado (Boulder) and a Master of Science degree from the University of Southern California. He was an Adjunct Professor in the Computer Information Systems programs at the University of Denver and the University of Phoenix. He currently serves as a senior capstone advisor at Virginia Tech and is an invited reviewer for Carnegie Mellon University School of Engineering projects. Mr. Ericson is an active member of the community, serving as the leader of an outdoor adventure program for boys and young men and is the IEEE Denver Section, Chapter Chairman for the Computer, Information Theory, and Robotics Societies. Mr. Ericson is an IEEE Senior Member.</div>
+<div class="presentation-title"><strong>Presentation: Using Agile Concepts In Dynamic Software Development</strong></div>
+<div class="abstract"><strong>Abstract:</strong> Developing software capabilities in dynamic environments such as emerging technologies and research requires sufficient rigor to reach the long term vision and must accommodate new information and roadblocks discovered in the development process. While recent commercial <em>agile</em> processes and tools have tended towards the baroque, and may not be appropriate in dynamic environments, the <em>Agile Manifesto</em> and core techniques present a good balance between rigor and flexibility. This presentation will review practical Agile concepts and provide useful tips from 20+ years of software development ranging from three-person tiger teams to multi-team emerging technology programs.</div>
+<p style="margin-left: 20px;padding-left: 10px">Location: Virtual</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h1><span style="background-color: #00ffff">* Honors and Past Events - 2022 *</span></h1>
+<!-- /wp:tadv/classic-paragraph --><hr /><!-- /wp:tadv/classic-paragraph -->
+<h1><span class="meeting-virtual"><em>Virtual Meeting</em></span></h1>
+<h3><strong>IEEE Denver Computer, Information Theory, and Robotics Society – Technical Meeting</strong></h3>
+<h2>13 October 2022 @ 6:00 PM - 7:00 PM MDT</h2>
+<h4>Denver IEEE Computer Society Guest Lecturer</h4>
+<h3>Dr. Stephan Gerali<strong><img class=" wp-image-1227 alignright" src="https://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2022/09/gerali.png" alt="Dr. Stephan Gerali" width="200" /></strong></h3>
+<p>&nbsp;</p>
+<div>
+<ul class="affiliations">
+<li>Denver IEEE Computer Society Guest Lecturer</li>
+<li>Chief Software Architect and Engineer</li>
+<li>Lockheed Martin Fellow</li>
+</ul>
+</div>
+<div class="bio">Dr. Stephan Gerali has his B.S., M.S. and Ph.D. in Computer Science from the University of Colorado and his MBA from Colorado State University, and is certified in Java, BEA WebLogic, Six Sigma and Secure Software Engineering. Dr. Gerali is a Lockheed Martin Fellow specializing in Software Architecture / Software Engineering with more than 24 years of experience working on large-scale distributed systems. Currently, Stephan is the Chief Architect for the Chief Data &amp; Analytics Office for the Lockheed Martin Enterprise business area specializing in its digital transformation journey with data. Within Lockheed Martin, Dr. Gerali has supported IS&amp;GS (Information Systems &amp; Global Solutions) in Army (All Source Analysis System and Future Combat System), USSTRATCOM (Strategic Threat Analysis Reporting System) and Air Force (Single Integrated Space Picture) command and control systems, and within EIT (Enterprise IT) has supported LMPeople, LMCareers, Performance Based Logistics, University Relations Recruiter’s Network, Center for Leadership Excellence, Non-Employee Access Tracking, Infrastructure Health Management, Event Correlation &amp; Analysis, Enterprise Data Warehouse / Business Intelligence, Digital Tapestry and Model Based Engineering.</div>
+<div class="presentation-title"><strong>Presentation: IoT for Defense and National Security</strong></div>
+<div class="abstract"><strong>Abstract:</strong>
+<p><cite><a href="https://www.wiley.com/enus/IoT+for+Defense+and+National+Security-p-9781119892144" target="_blank" rel="noopener">IoT for Defense and National Security</a></cite> covers topics on IoT security, architecture, robotics, sensing, policy, operations, and more, presenting the latest results from the U.S. Army's Internet of Battle Things and the U.S. Defense Department's premier IoT research initiative. The presentation discusses organizational challenges in converting defense industrial operations to IoT and summarizes policy challenges and recommendations for controlling government use of IoT in free societies. As a modern reference, this presentation covers multiple technologies in IoT solution deployment that include KepServerEX for edge connectivity to industrial protocols, AWS IoT Core for IoT data processing, Amazon S3 for scalable storage of IoT Data, and more. To aid in reader comprehension, the text uses case studies illustrating the challenges and solutions for using robotic devices in defense applications, plus case studies on using IoT for a defense industrial base. Content developed by leading researchers and practitioners of IoT technology for defense and national security, IoT for Defense and National Security also includes information on:</p>
+<ul>
+<li style="font-size: medium;font-style: normal;list-style-type: circle">IoT resource allocation via mixed discrete/continuous optimization (monitoring existing resources and reallocating them in response to adversarial actions)</li>
+<li style="font-size: medium;font-style: normal;list-style-type: circle">principles of robust learning and inference for Internet of Battlefield Things (IoBTs), covering methodologies to make machine learning models provably robust</li>
+<li style="font-size: medium;font-style: normal;list-style-type: circle">AI-enabled processing of environmental sounds in commercial and defense environments, such as detecting faults in industrial manufacturing</li>
+<li style="font-size: medium;font-style: normal;list-style-type: circle">vulnerabilities in tactical IoT systems that come about due to the intrinsic nature of building networks using several devices and components</li>
+</ul>
+<p>For application engineers from security and defense-related companies and professors and students in military courses, <cite>IoT for Defense and National Security</cite> is a one-of-a-kind resource of the topic, providing expansive coverage of an important yet sensitive topic that is often shielded from the public due to classified or restricted distributions.</p>
+</div>
+<p style="margin-left: 20px;padding-left: 10px">Location: Virtual</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h1><span class="meeting-virtual"><em>Virtual Meeting</em></span></h1>
+<h3><strong>IEEE Denver Computer, Information Theory, and Robotics Society – Technical Meeting</strong></h3>
+<h2>8 September 2022 @ 6:00 PM - 7:00 PM MDT</h2>
+<h4>Denver IEEE Computer Society Guest Lecturer</h4>
+<h3>Mr. Chandler Bauder<strong><img class=" wp-image-1227 alignright" src="https://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2022/01/chandler-bauder.png" alt="Mr. Chandler Bauder" width="200" /></strong></h3>
+<p>&nbsp;</p>
+<ul class="affiliations">
+<li>Denver IEEE Computer Society Guest Lecturer</li>
+<li>Phd Student, Department of Electrical Engineering, University of Tennessee</li>
+<li>Graduate Research Assistant</li>
+</ul>
+<div class="bio">
+<p>Chandler J. Bauder is a graduate student currently pursuing his Ph.D. in electrical engineering at the University of Tennessee, Knoxville TN. Chandler Bauder also received the B.S. degree (<i>summa cum laude</i>) in electrical engineering from the University of Tennessee. During Mr. Bauder’s undergraduate work he was a part of the Chancellor’s Honors Program at the University of Tennessee Knoxville. In 2017, Mr. Bauder was awarded the Gonzalez Family Award for Outstanding EE Junior. In 2018, Mr. Bauder has also been awarded the Chancellor’s Award for Extraordinary Academic Achievement, in 2019 and 2020 the Chancellor’s Award for Extraordinary Professional Promise. Mr. Bauder has been working as a Graduate Research Assistant in the Department of Electrical Engineering and Computer Science at the University of Tennessee Knoxville, since 2018. There Mr. Bauder has worked on various projects involving ground penetrating radar, microstrip filter design, radar and camera signal processing for vital sign detection, and multi-factor breakdown simulation of RF components. In May 2021, Mr. Bauder began working as an intern at the U.S. Naval Research Laboratory Radar Division’s Advanced Concepts Group on a project involving microwave power beaming. Mr. Bauder is also a proud Graduate Student Member within the IEEE.</p>
+</div>
+<div class="presentation-title"><strong>Presentation: Using mm-Wave Radar for Non-Contact Heart Rate Monitoring</strong></div>
+<div class="abstract">
+<p><strong>Abstract:</strong> Extracting accurate heart rate estimates of human subjects from a distance in high-noise scenarios using radar is a common problem. Often, frequency components from sources such as movement and vital signs from other subjects can overpower the weak reflected signal of the heart. In this study, we propose a signal-processing scheme using an Adaptive Multi-Trace Carving algorithm (AMTC) to accurately detect the heart rate signal over time in non-ideal scenarios using a mm-wave radar. In our initial proof-of-concept results, we show a low heart rate estimation mean absolute error (MAE) of 3 bpm for a single subject marching in place and less than 4.5 bpm for a scenario of two human subjects at the same distance from the radar.</p>
+</div>
+<p style="margin-left: 20px;padding-left: 10px">Location: Virtual</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr /><!-- --><!-- /wp:tadv/classic-paragraph -->
+<h1><span class="meeting-virtual"><em>Virtual Meeting</em></span></h1>
+<h3><strong>IEEE Denver Computer, Information Theory, and Robotics Society – Technical Meeting</strong></h3>
+<h2>9 June 2022 @ 6:00 PM – 7:00 PM MT</h2>
+<h4>Denver IEEE Computer Society Guest Lecturer</h4>
+<h3>Dr. Zhihui Zhu <img class=" wp-image-1973 alignright" src="https://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2021/12/zhihui_zhu_1.png" alt="Dr. Zhihui Zhu" width="200" /></h3>
+<ul class="affiliations">
+<li>Assistant Professor, Department of Electrical and Computer Engineering, University of Denver</li>
+</ul>
+<div class="bio">
+<p>Dr. Zhihui Zhu is currently an Assistant Professor with the Department of Electrical and Computer Engineering, University of Denver. Dr. Zhu received the Ph.D. degree in electrical engineering from the Colorado School of Mines, Golden, CO, USA, in 2017. Dr. Zhu was a Post-Doctoral Fellow with the Mathematical Institute for Data Science, Johns Hopkins University, Baltimore, MD, USA, from 2018 to 2019. Dr. Zhu's research interests include the exploitation of inherent low-dimensional structures within data and signals, and the design, analysis, and implementation of optimization algorithms for machine learning and signal processing.</p>
+</div>
+<div class="presentation-title"><strong>Presentation: Understanding Neural Collapse in Deep Learning</strong></div>
+<div class="abstract">
+<p><strong>Abstract</strong>: In the past decade, the revival of deep neural networks has led to dramatic success in numerous applications ranging from computer vision, to natural language processing, to scientific discovery and beyond. Nevertheless, the practice of deep networks has been shrouded with mystery as our theoretical understanding for the success of deep learning remains elusive.</p>
+<p>In this talk, we will focus on the representations learned by deep neural networks. For example, <em>neural collapse</em> is an intriguing empirical phenomenon that persists across different neural network architectures and a variety of standard datasets. This phenomenon implies that (i) the class means and the last-layer classifiers all collapse to the vertices of a Simplex Equiangular Tight Frame (ETF) up to scaling, and (ii) cross-example within-class variability of last-layer activations collapses to zero. We will provide a geometric analysis for understanding why this happens on a simplified unconstrained feature model. We will also exploit these findings to improve training efficiency: we can set the feature dimension equal to the number of classes and fix the last-layer classifier to be a Simplex ETF for network training, reducing memory cost by over 20% on ResNet18 without sacrificing the generalization performance.</p>
+</div>
+<p style="margin-left: 20px;padding-left: 10px">Location: Virtual</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h1><span class="meeting-virtual"><em>Virtual Meeting</em></span></h1>
+<h3><strong>IEEE Denver Computer, Information Theory, and Robotics Society – Technical Meeting</strong></h3>
+<h2>12 May 2022 @ 5:30 PM – 6:30 PM MT</h2>
+<h4>Denver IEEE Computer Society Guest Lecturer</h4>
+<h3>Mr. Yiran Cui <img class=" wp-image-1973 alignright" src="https://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2022/01/yiran_cui_2_1200x1800.jpg" width="200" /></h3>
+<ul class="affiliations">
+<li>Ph.D. Candidate, School of Electrical, Computer and Energy Engineering, Arizona State University</li>
+</ul>
+<div class="bio">
+<p>Mr. Yiran Cui is currently pursuing his Ph.D. degree in the School of Electrical, Computer and Energy Engineering, Arizona State University. Mr. Cui received his Bachelor’s and Master’s degrees from Anhui Normal University, Wuhu, China, in 2012, and University of Electronic Science and Technology of China, Chengdu, China, in 2015, respectively. Mr. Cui's research interests mainly include quasi-optical techniques, mmW/THz imaging applications, mmW/THz measurements, and antennas.</p>
+</div>
+<div class="presentation-title"><strong>Presentation: 3D Non-Line-of-Sight Imaging Using Terahertz Signals</strong></div>
+<div class="abstract">
+<p><strong>Abstract</strong>: Although traditional optical cameras can produce high-resolution pictures, using a terahertz (THz) camera, we can see objects that are not only in the direct line-of-sight but also occluded. This can inspire new applications ranging from autonomous navigation to wireless communications.</p>
+<p>In this talk, we propose a THz non-line-of-sight (NLoS) imaging method that can help us reveal invisible targets behind occlusions. This method takes advantage of wave scattering from LoS rough surfaces to transmit signals to the NLoS scene. We show that common building materials can perform similar to mirrors in the THz range such that an NLoS scene can be imaged via the signal specular reflections from them. However, this phenomenon also results in incorrect raw images as the NLoS objects would appear at the wrong locations with false orientations. Therefore, we introduce the mirror folding method which can account for the signal reflections and correct the raw images. We also demonstrate the proposed THz NLoS imaging approach using experiments in various scenarios. The results show that the hidden scene can be properly reconstructed with centimeter-scale resolution at several meters away.</p>
+</div>
+<p style="margin-left: 20px;padding-left: 10px">Location: Virtual</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr /><!-- /wp:tadv/classic-paragraph -->
+<h1><span class="meeting-virtual"><em>Virtual Meeting</em></span></h1>
+<h3><strong>IEEE Denver Computer, Information Theory, and Robotics Society – Technical Meeting</strong></h3>
+<h2>10 March 2022 @ 6:00 PM – 7:00 PM MT</h2>
+<h4>Denver IEEE Computer Society Guest Lecturer</h4>
+<h3>Dr. Nisar Ahmed<img class=" wp-image-1973 alignright" src="https://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2021/12/nisar_july2013.png" alt="Dr. Nisar Ahmed" width="200" /></h3>
+<ul class="affiliations">
+<li>Associate Professor, Aerospace Engineering Sciences, University of Colorado Boulder</li>
+<li>CU Boulder Co-site Director for NSF IUCRC Center for Unmanned Aircraft Systems</li>
+<li>Courtesy Appointment, Department of Computer Science, University of Colorado Boulder</li>
+</ul>
+<div class="bio">
+<p>Dr. Nisar Ahmed is an Associate Professor and H.J. Smead Faculty Fellow in the Smead Aerospace Engineering Sciences Department at the University of Colorado Boulder, and holds a courtesy appointment in the Computer Science Department. Dr. Ahmed is a member of the Research and Engineering Center for Unmanned Vehicles (RECUV) and directs the Cooperative Human-Robot Intelligence (COHRINT) Lab. Dr. Ahmed's research interests are in modeling, estimation and control of intelligent autonomous systems, especially for problems involving human-robot interaction, distributed sensor and information fusion, and decision-making under uncertainty. Dr. Ahmed received his B.S. in Engineering from Cooper Union in 2006, and Ph.D. in Mechanical Engineering from Cornell University in 2012 through an NSF Graduate Research Fellowship. Dr. Ahmed was a postdoctoral research associate in the Cornell Autonomous Systems Lab from 2012 to 2014. Dr. Ahmed was awarded the 2011 AIAA Guidance, Navigation, and Control Conference Best Paper Award; and an ASEE Air Force Summer Faculty Fellowship in 2014; and the 2018 Aerospace Control and Guidance Systems Committee (ACGSC) Dave Ward Memorial Lecture Award. Dr. Ahmed's work has been supported by the Army, Air Force, DARPA, Navy, NASA, Space Force, and multiple industry sponsors. Dr. Ahmed has also organized several international workshops and symposia on autonomous robotics, sensor fusion, and human-autonomy interaction. Dr. Ahmed is a Member of the IEEE and the AIAA Intelligent Systems Technical Committee, and he is the CU Co-Site Director of the NSF IUCRC Center for Unmanned Aerial Systems (C-UAS).</p>
+</div>
+<div class="presentation-title"><strong>Presentation: Cooperative Bayesian Intelligence for Aerospace Autonomy</strong></div>
+<div class="abstract">
+<p><strong>Abstract</strong>: As imperfectly designed agents in an uncertain world, autonomous systems will never work "out of the box" exactly as desired. By taking on tasks that push the technological limit, autonomous systems will encounter unexpected situations that go beyond their immediate capabilities. Autonomous systems must therefore be able to continuously and independently gather, process, and act on imperfect information. They must also be cognizant of what they can and cannot accomplish on their own and know when/how to seek help. In aerospace applications and beyond, scalable human-machine and machine-machine interactions will be essential for reinforcing the core perception, planning, learning, and reasoning algorithms that make machine autonomy on any one platform possible.</p>
+<p>This talk will discuss innovative Bayesian algorithmic approaches developed by the COHRINT Lab at CU Boulder that enable autonomous systems to opportunistically leverage different available kinds of human-machine and machine-machine interaction while performing challenging tasks in the presence of complex uncertainties. I will focus in detail on our group’s work on probabilistic modeling, inference, and optimization techniques for augmenting autonomous state estimation and decision-making algorithms running onboard autonomous systems with inputs from human teammates, task assistants and supervisors. I will describe how our approaches connect rigorous statistical modeling and learning techniques with "plug-and-play" semantic interfaces that can readily adapt to a variety of applications and users. Results from aerospace applications such as unmanned air/ground reconnaissance, missile defense, and space robotics will show how our methods allow human-machine systems to "cut knots and fill in gaps" in fundamentally novel ways for challenging problems.</p>
+</div>
+<p style="margin-left: 20px;padding-left: 10px">Location: Virtual – WebEx</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<p>&nbsp;</p>
+<hr /><hr />
+<h1><span class="meeting-virtual"><em>Virtual Meeting</em></span></h1>
+<h3><strong>Joint IEEE Meeting</strong></h3>
+<h3><strong>IEEE Communications Society Denver Chapter &amp; IEEE Denver Computer, Information Theory, and Robotics Society – Technical Meeting</strong></h3>
+<h2>05 March 2022 @ 10:00 AM – 11:15 AM MT</h2>
+<h4>IEEE ComSoc Distinguished Lecturer &amp; Denver IEEE Computer Society Guest Lecturer</h4>
+<h3>Dr. Fabrizio Granelli<img class=" wp-image-1973 alignright" src="https://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2022/03/granelli-fabrizio.jpg" alt="Prof. Fabrizio Granelli" width="200" /></h3>
+<ul class="affiliations">
+<li>Professor, Dept. of Information Engineering and Computer Science (DISI) of the University of Trento (Italy)</li>
+<li>IEEE ComSoc Distinguished Lecturer for 2021-22</li>
+<li>IEEE ComSoc Director for Conference Development for 2022-23</li>
+</ul>
+<div class="bio"><a href="mailto:fabrizio.granelli@unitn.it">Dr. Fabrizio Granelli</a> received the <em>Laurea</em> (M.Sc.) and Ph.D. degrees from the University of Genoa, Italy, in 1997 and 2001, respectively. Prof. Granelli has been a visiting professor at the State University of Campinas (Brazil) and in 2016 he was visiting professor at the University of Tokyo (Japan). Prof. Granelli served as IEEE ComSoc Distinguished Lecturer for the period 2012-15 (2 terms), ComSoc Director for Online Content in 2016-17, Delegate for Education at DISI in 2015-2017, and IEEE ComSoc Director for Educational Services (2018-19). Prof. Granelli has participated as an organizer in the most relevant international conferences, such as TPC Co-Chair of several symposia at IEEE ICC and IEEE GLOBECOM, and as TPC Co-Chair of the IEEE NFV SDN conference (2018 and 2019), and is currently TPC Chair for IEEE GLOBECOM 2022. Since 2019, Prof. Granelli has been the Founding Chair of the Aerial Communication Emerging Technology Initiative of IEEE Communications Society. Author or co-author of more than 250 papers published in international journals, books and conferences, Prof. Granelli is also Associate Editor-in-Chief of IEEE Communications Surveys and Tutorials.</div>
+<div class="presentation-title"><strong>Presentation: Emulating Modern SDN and NFV Networks: The <em>ComNetsEmu</em> Environment</strong></div>
+<div class="abstract">
+<p><strong>Abstract</strong>: Networks are evolving rapidly under the pressure of the emerging Software Defined Networking (SDN) and Network Function Virtualization (NFV) paradigms. Indeed, the joint usage of SDN and NFV is increasing the programmability of networks and supported services, introducing new and vital concepts such as network slicing and, in general, allowing the introduction of computing in communication networks. As a consequence, the path towards network automation and autonomous networking is now open. In this fast-changing scenario, effective training of network engineers requires a hands-on approach. Some software environments are available for separately studying and testing solutions in SDN (<em>Mininet</em>) or NFV (<em>Docker</em>). This presentation will introduce a holistic network emulation software, <em>ComNetsEmu</em>, capable of providing to users the capability to experiment with building blocks of modern networks (SDN &amp; NFV), directly on their own laptops and supported by several practical examples. Besides introducing the emulator design, the presentation will offer an overview of the practical capabilities of the <em>ComNetsEmu</em> environment and some demonstration of related applications.</p>
+</div>
+<p style="margin-left: 20px;padding-left: 10px">Location: Virtual – WebEx</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<p>&nbsp;</p>
+<hr /><hr />
+<h1><span class="meeting-virtual"><em>Virtual Meeting</em></span></h1>
+<h3><strong>IEEE Denver Computer, Information Theory, and Robotics Society – Technical Meeting</strong></h3>
+<h2>10 February 2022 @ 6:00 PM – 7:00 PM MT</h2>
+<h4>Denver IEEE Computer Society Guest Lecturer</h4>
+<h3>Dr. Kumar Vijay Mishra<img class=" wp-image-1973 alignright" src="https://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2022/01/mlsp2019-crop-resize-sharpen.png" alt="Dr. Kumar Vijay Mishra" width="200" /></h3>
+<ul class="affiliations">
+<li>ARL Senior Fellow</li>
+<li>United States CCDC Army Research Laboratory, Adelphi, MD</li>
+</ul>
+<div class="bio">
+<p>Dr. Kumar Vijay Mishra (IEEE S’08-M’15-SM’18) obtained a Ph.D. in electrical engineering and M.S. in mathematics from The University of Iowa in 2015, and M.S. in electrical engineering from Colorado State University in 2012, while working on NASA’s Global Precipitation Mission Ground Validation (GPM-GV) weather radars. Dr. Mishra received his B. Tech. <em>summa cum laude</em> (Gold Medal, Honors) in electronics and communication engineering from the National Institute of Technology, Hamirpur (NITH), India in 2003. Dr. Mishra is currently Senior Fellow at the United States Army Research Laboratory (ARL), Adelphi; Technical Adviser to Singapore-based automotive radar start-up Hertzwell; and honorary Research Fellow at SnT - Interdisciplinary Centre for Security, Reliability and Trust, University of Luxembourg. Dr. Mishra is the recipient of U. S. National Academies Harry Diamond Distinguished Fellowship (2018-2021), Royal Meteorological Society Quarterly Journal Editor's Prize (2017), Viterbi Postdoctoral Fellowship (2015, 2016), Lady Davis Postdoctoral Fellowship (2017), and DRDO LRDE Scientist of the Year Award (2006). Dr. Mishra is Vice-Chair (2021-present) of the IEEE Synthetic Aperture Standards Committee of the IEEE Signal Processing Society. Since 2020, he has been Associate Editor of <cite>IEEE Transactions on Aerospace and Electronic Systems</cite>. Dr. Mishra is Vice Chair (2021-2023) and Chair-designate (2023-2026) of International Union of Radio Science (URSI) Commission C. Dr. Mishra is the co-editor of three upcoming books on radar: <cite>Signal Processing for Joint Radar-Communications</cite> (Wiley-IEEE Press), <cite>Next-Generation Cognitive Radar Systems</cite> (IET Press), and <cite>Advances in Weather Radar Volumes 1, 2 &amp; 3</cite> (IET Press). Dr. Mishra's research interests include radar systems, signal processing, remote sensing, and electromagnetics.</p>
+</div>
+<div class="presentation-title"><strong>Presentation: Deep learning Techniques for Hybrid Beamforming in Communications and Radar</strong></div>
+<div class="abstract">
+<p><strong>Abstract</strong>: The millimeter-wave (mm-Wave) massive MIMO communications employ hybrid analog-digital beamforming architectures to reduce the cost-power-size-hardware overheads. Lately, there is also a gradual push to move from the millimeter-wave (mmWave) to Terahertz (THz) frequencies for short-range communications and radar applications to exploit very wide THz bandwidths. The design of the hybrid beamforming techniques requires solving difficult nonconvex optimization problems that involve a common performance metric as a cost function and a number of constraints related to the employed communications/radar regime and the adopted architecture of the hybrid systems. There is no standard methodology for solving such problems and usually, the derivation of an efficient solution is a very challenging task. Since optimization-based approaches suffer from high computational complexity and their performance strongly relies on the perfect channel condition, we introduce deep learning (DL) techniques that provide robust performance while designing a hybrid beamformer. These methods offer advantages such as low computational complexity and the ability to extrapolate new features from a limited set of features contained in a training set. In this talk, the audience will learn about applying DL to various aspects of hybrid beamforming including channel estimation, antenna selection, wideband beamforming, knowledge transfer across various geometries, and spatial modulation in both communications and radar.</p>
+</div>
+<p style="margin-left: 20px;padding-left: 10px">Location: Virtual – WebEx</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<p><!-- /wp:tadv/classic-paragraph --></p>
+<h1><span class="meeting-virtual"><em>Virtual Meeting</em></span></h1>
+<h2><strong>Joint IEEE Meeting</strong></h2>
+<h3><strong>IEEE Engineering in Medicine and Biology Society and the <br />Denver Computer, Information Theory, and Robotics Society<br />– Technical Meeting </strong></h3>
+<h2>05 January 2022 @ 12:00 PM – 1:00 PM MT</h2>
+<h4>Distinguished Guest Lecturer</h4>
+<h3>Dr. Hermano Igo Krebs<strong><img class=" wp-image-1973 alignright" src="https://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2021/12/Krebs_1x.png" alt="Dr. Hermano Igo Krebs" width="200" /></strong></h3>
+<ul class="affiliations">
+<li>Principal Research Scientist and Lecturer, Mechanical Engineering Department, MIT</li>
+<li>Fellow of IEEE</li>
+</ul>
+<div class="bio">
+<p>Dr. Hermano Igo Krebs is a Principal Research Scientist and Lecturer at MIT’s Mechanical Engineering Department and the Director of The77Lab (<a href="http://the77lab.mit.edu/">http://the77lab.mit.edu</a>). Dr. Krebs holds an affiliate position as an Adjunct Professor at University of Maryland School of Medicine, Department of Neurology, and as a Visiting Professor at Fujita Health University, Department of Physical Medicine and Rehabilitation (Japan), at Osaka University, Mechanical Science and Bioengineering Department (Japan), and at Loughborough University, Rehabilitation Robotics of The Wolfson School of Mechanical, Electrical, and Manufacturing Engineering (UK). Dr. Krebs is a Fellow of the IEEE and was nominated to this distinguished engineering status "for contributions to rehabilitation robotics and the understanding of neuro-rehabilitation". Dr. Krebs received "The 2009 Isabelle and Leonard H. Goldenson Technology and Rehabilitation Award" from the Cerebral Palsy International Research Foundation (CPIRF), the 2015 IEEE-INABA Technical Award for Innovation leading to Production "for contributions to medical technology innovation and translation into commercial applications for Rehabilitation Robotics", and he was selected as a 2021 IEEE-EMBS Distinguished Lecturer (2021/2022). Dr. Krebs was one of the founders, member of the Board of Directors, and the Chairman of the Board of Directors of Interactive Motion Technologies from 1998 to 2016. Dr. Krebs successfully sold it to Bionik Laboratories, a publicly traded company, where he served as its Chief Science Officer and as a member of the Board of Directors until July 2017. Dr. Krebs later founded 4Motion Robotics.</p>
+</div>
+<div class="presentation-title"><strong>Presentation: How Robotics are Revolutionizing Rehabilitation</strong></div>
+<div class="abstract">
+<p><strong>Abstract</strong>: Capitalizing on the new understanding of brain plasticity, we introduced a paradigm shift in clinical practice in 1989 when we initiated the development of the MIT-Manus robot for neuro-rehabilitation and deployed it into the clinic. Since then we collected evidence to support the potential of enhancing and augmenting recovery following a stroke, first during the sub- acute and then the chronic phase. Our efforts and that of others led to the endorsements starting in 2010 from the American Heart Association, the American Stroke Association, and the Veterans Administration for the use of rehabilitation robots for the Upper Extremity, but not yet for the Lower Extremity. AHA recommendations were the same in the 2016 revision. Furthermore, it was demonstrated in the VA system that upper extremity robotic therapy has an economic advantage over manual therapy. More recently we completed a pragmatic study RATULS under the auspices of the National Health Service of the United Kingdom and its NIHR Health Technology Assessment Programme, which enrolled 770 stroke patients. Thus, we have developed novel robotic treatment and evaluation tools and have managed to collect the experimental evidence that demonstrates the unequivocal therapeutic benefits stemming from robot-aided rehabilitation for the upper extremity as well as present shortcomings. This talk will present an overview of our past rehabilitation robotics efforts and more recent efforts addressing the identified shortcomings.</p>
+</div>
+<p style="margin-left: 20px;padding-left: 10px">Location: Virtual – WebEx</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<p><!-- /wp:tadv/classic-paragraph --></p>
+<h1><span style="background-color: #00ffff">* Honors and Past Events - 2021 *</span></h1>
+<hr /><hr />
+<h1><span style="color: #800000"><em>Virtual Meeting</em></span></h1>
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>11 November 2021 @ 6:00 PM – 7:00 PM MT</h2>
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold"><b><span data-contrast="auto">Dr. Behrooz Parhami<img class=" wp-image-2093 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2021/08/Dr.-Behrooz-Parhami.jpg" alt="" width="200" /></span></b></p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Professor of Electrical and Computer Engineering, and IEEE Computer Society Distinguished Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic"><span data-contrast="auto">University of California, Santa Barbara </span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[8]}"> <br /></span></p>
+<p style="margin-left: 20px;padding-left: 10px">Behrooz Parhami earned a PhD in computer science from University of California, Los Angeles, 1973. Currently Dr. Parhami is a Professor of Electrical and Computer Engineering, and former Associate Dean for Academic Personnel, College of Engineering, at University of California, Santa Barbara. Previously Dr. Parhami was also involved in educational planning, curriculum development, standardization efforts, technology transfer, and various editorial responsibilities, including a five-year term as Editor of <em>Computer</em> <em>Report</em>, technical journal of the Informatics Society of Iran, which he helped found in 1979.</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr Parhami has published over 300 papers in peer-reviewed journals and international conferences. Among his publications are textbooks on parallel processing (1999), computer arithmetic (2000; 2nd ed. 2010), and computer architecture (2005). Professor Parhami is a Life Fellow of IEEE, a Fellow of IET, a Chartered Fellow of the British Computer Society, a Fellow of AAIA, a member of the Association for Computing Machinery and American Society for Engineering Education, and a Distinguished Member of the Informatics Society of Iran, for which he served as a founding member and President. Professor Parhami has served on the editorial boards of <em>IEEE Trans. Sustainable Computing</em> (since 2016), <em>IEEE Trans. Computers</em>, <em>IEEE Trans. Parallel and Distributed Systems</em>, and <em>International J. Parallel, Emergent and Distributed Systems</em>.</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr Parhami’s research interests are computer arithmetic, parallel processing, and dependable computing.</p>
+<div>
+<h3><span data-contrast="auto">Presentation: <b>Eight Key Ideas in Computer Architecture from Eight Decades of Innovation</b></span></h3>
+</div>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: Computer architecture became an established discipline when the stored-program concept was incorporated into bare-bones computers of the 1940s. Since then, the field has seen multiple minor and major innovations in each decade. I will present my pick of the most important innovation in each of the eight decades, from the 1940s to the 2010s, and show how these ideas, when connected to each other and allowed to interact and cross-fertilize, produced the phenomenal growth of computer performance, now approaching exa-op/s (billion billion operations per second) level, as well as to ultra-low-energy and single-chip systems. I will also offer predictions for what to expect in the 2020s and beyond.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – Virtual – WebEx</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<p>&nbsp;</p>
+<hr /><hr /><!-- wp:tadv/classic-paragraph -->
+<p>&nbsp;</p>
+<h1><span style="color: #993300"><em>Virtual Meeting</em></span></h1>
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>14 October 2021 @ 6:00 PM – 7:00 PM MT</h2>
+<div><img class=" wp-image-2060 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2021/06/Dr.-Tom-Williams.jpg" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold"><span data-contrast="auto">Dr. Tom Williams</span></p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic"><span data-contrast="auto">Computer and Cognitive Scientist</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:276,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[8]}"> </span></p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic"><span data-contrast="auto">Colorado School of Mines </span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[8]}"> </span></p>
+<p style="margin-left: 20px;padding-left: 10px">Tom Williams holds a PhD in Computer Science and Cognitive Science and MS in Computer Science from Tufts University, and a BA in Computer Science with minors in Mathematics and Creative Writing from Hamilton College. Dr Williams is an Assistant Professor at the Colorado School of Mines, where he directs the Mines Interactive Robotics Research Laboratory (MIRRORLab), with ten years of research experience in the fields of Human-Robot Interaction, Cognitive Systems, and Artificial Intelligence. Dr Williams' research interests focus on morally and socially competent human-robot communication through natural language.</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. Williams’ research has been supported by multiple federal agencies, including Early Career Awards from NSF, NASA, and the Air Force Office of Scientific Research. Tom has taken leadership roles in the organization of the international conferences on Human Robot Interaction and Social Robotics, and has been a featured member of the ACM.</p>
+</div>
+<div class="meeting_detail_blockt"> </div>
+<div> </div>
+<div>
+<h3><span data-contrast="auto">Presentation: </span><b><span data-contrast="auto">Secret Agents: The Real and Imagined Inner Lives of Interactive Robots</span></b><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:276,&quot;469777462&quot;:[720],&quot;469777927&quot;:[0],&quot;469777928&quot;:[8]}"> </span></h3>
+</div>
+<p style="margin-left: 20px;padding-left: 10px"><span data-contrast="auto">Abstract: This presentation focuses on the role that notions of agency play in the design of language-capable interactive robots. I will begin by explaining the overall impact that robot design choices have on how people perceive robots and expect them to behave. I’ll then explain why robots are not simply agents, but are also moral and social agents, and describe the work the MIRRORLab has been doing to understand and address the unique perceptions and expectations that come along with these more nuanced types of agency. In doing so, I will cover not only the computational aspects of our work, but also the way that our work is informed by theories and methods from psychology (cognitive, human factors, social, and moral), philosophy (of mind, of language, of morality), linguistics, design, and other fields.</span></p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – Virtual – WebEx</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<p>&nbsp;</p>
+<hr /><hr />
+<h1> </h1>
+<h1><em>Virtual Meeting</em></h1>
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>09 Sept 2021 @ 6:00 PM – 7:00 PM MT</h2>
+<div><img class=" wp-image-2065 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2021/06/Kevin-Havis.jpeg" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Mr. Kevin Havis</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Industrial Engineer, Data Visualization Expert, &amp; Engineering Leader</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Lockheed Martin Operations</p>
+<div class="meeting_detail_blockt"> </div>
+<div>
+<p style="margin-left: 20px;padding-left: 10px"><span class="s2">Mr. Kevin Havis holds a Masters of Engineering in Industrial and Systems Engineering and a BS in Mechanical Engineering from Texas A&amp;M University. Mr. Havis is a professional Industrial Engineer with an additional seven years of experience in operations, focusing on supply chain and manufacturing. Mr. Havis’s current position allows him to create, design, and support strategic standardization of data collection and integration across operations at Lockheed Martin Space in Denver, Colorado. Kevin is a data visualization leader with a certification in Tableau Desktop Administration. Within Lockheed Martin, his improvements in data systems have aided several workplace performance objectives, reducing the frustration of data ambiguity across several lines of business within Lockheed Martin. </span></p>
+<p style="margin-left: 20px;padding-left: 10px"><span class="s2">Kevin Havis has been educated on and established himself as a subject matter expert in Six Sigma and Lean production best practices and is responsible for the refinement of numerous business processes and metrics at Lockheed Martin Space. Kevin also spends his time as a tutor, volunteer, and mentor for high school students </span>in downtown Denver.</p>
+</div>
+</div>
+<div>
+<h3>Presentation: <strong>Data Driven Decisions and Continuous Improvement </strong></h3>
+</div>
+<p style="margin-left: 20px;padding-left: 10px"><span data-contrast="auto">Abstract: </span>While “data driven decision making” is a concept that is professed to be used across industries, executives still tend to lean toward trusting their gut and using heuristics in their decision making process. By considering the experiences of the audience, the context of the decision space, and the data being presented, we can help consumers of information overcome their intuitive biases and make decisions based on data. Drawing from his experiences of using data to influence behavior in a manufacturing environment, Kevin Havis will explore three factors to consider when evaluating how to use data, bringing a systems thinking perspective to the art of using data convincingly. We will discuss how to present data in a way that makes conclusions obvious and actionable with a final goal of improving your future projects quality and time to build. Finally, we will review some common errors when presenting data within hardware and software projects and systems engineering and how to use the lean technique of “Plan-Do-Check-Adjust” to arrive at great organization and visuals that will propel your program in to ever improved qualities.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – Virtual – WebEx</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h1><em>Virtual Meeting</em></h1>
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>12 Aug 2021 @ 6:00 PM – 7:00 PM MT</h2>
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<div>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Dr. Haadi Jafarian</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Professor of Computer Science and Engineering</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Director of Active Cyber and Infrastructure Defense (ACID) lab at University of Colorado Denver</p>
+<p style="margin-left: 20px;padding-left: 10px"><span class="s2"> Dr. Jafarian is an assistant professor, and the director of Active Cyber and Infrastructure Defense (ACID) laboratory at the CSE department. His primary research includes active cyber defense, resilient infrastructures, and data analytics for cyber threat intelligence. He has authored over 30 scholarly conference and journal publications (IEEE TIFS, IEEE INFOCOMM, ESORICS), including several noteworthy works on moving target defense, cyber deception, web security, and network security. He is currently advising five Ph.D. students and several master students in the ACID lab, where most of lab’s research is focused on data-driven cybersecurity analytics.</span></p>
+</div>
+<div>
+<h3>Presentation:<strong>Defeating traffic analysis attacks: challenges and countermeasures</strong></h3>
+</div>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: While encryption protects communications from on-path eavesdropping and man-in-the-middle attacks, it does not protect them against privacy threats realized via advanced traffic analysis algorithms. Traffic analysis refers to ever-growing side-channel attacks that rely on sophisticated machine learning algorithms to enable an on-path attacker to classify the encrypted packets based on unencryptable features of the traffic, such as packet sizes, counts, and timings which are not modified by the encryption algorithms, to infer sensitive information from eavesdropped encrypted communications. Examples include traffic analysis attacks that identify the spoken language or even the speaker in a conversation over encrypted VoIP packets or visited web pages or other user activities from encrypted HTTP packets. In this talk, we first provide an overview of traffic analysis attacks and show that existing countermeasures like packet padding are in no way sufficient or effective in addressing them. We then discuss the characteristics of an ideal defense mechanism for obfuscating footprints of encrypted traffic. Finally, we discuss a novel approach based on proactive cyber defense paradigms, including moving target defense and cyber deception, to realize this ideal countermeasure against traffic analysis attacks.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – Virtual – WebEx</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h1><em>Virtual Meeting</em></h1>
+<h2><strong>Joint IEEE meeting</strong></h2>
+<h2>IEEE Engineering in Medicine and Biology Society and the<strong> Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>13 Jul 2021 @ 9:00 AM – 10:00 AM MT</h2>
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<div><img class=" wp-image-2073 alignright" src="https://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2021/06/Dr-Pietro-Valdastri.jpg" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Dr. Pietro Valdastri</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Biomedical, Electronic, and Mechanical Engineer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Full Professor and Chair in Robotics and Autonomous Systems at the University of Leeds</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. Valdastri earned his Laurea degrees in Electronic Engineering in 2001 from the University of Pisa within Pisa, Italy. Then Dr. Valdastri went on to achieve his PhD in Biomedical Engineering in 2006 from Scuola Superiore Sant’Anna also within Pisa, Italy. After Dr. Valdastri’s PhD, he became Assistant Professor in Biomedical Engineering at the BioRobotics Institute of Scuola Superiore Sant’Anna. In 2011, Dr Valdastri became an Assistant Professor in Mechanical Engineering at Vanderbilt University within Nashville Tennessee, USA. In 2016, Dr. Valdastri relocated to Leeds England where he became a Full Professor and Chair in Robotics and Autonomous Systems at the University of Leeds. Within the University of Leeds Dr. Valdastri additionally directs the Science and Technologies Of Robotics in Medicine (STORM) Lab, focusing on intelligent robots to fight cancer, the Institute of Robotics, Autonomous System and Sensing (IRASS), and the Robotics at Leeds network.</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. Valdastri has published more than 100 peer reviewed journal papers on medical robotics and has been principal investigator on grants supported by NSF, NIH, ERC, EU-H2020, Cancer Research UK, The Royal Society, EPSRC and industry. He holds NSF CAREER, Wolfson Research Merit, ERC Consolidator and KUKA Innovation Awards. Prof. Valdastri is a Senior Member of IEEE, a Senior Editor for Medical and Rehabilitation Robotics of IEEE RAL, and a member of the steering committee of iSMIT.  Dr. Valdastri’s research has additionally been featured by several news outlets, including the BBC, The Times, Le Monde, The Financial Times, Daily Mail, New Scientist, The Spectator, WIRED, IEEE Spectrum, and Medgadget.</p>
+</div>
+<div>
+<h3>Presentation: <strong>Medical Capsule Robots: A Fantastic Voyage</strong></h3>
+</div>
+<div><strong> </strong></div>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: At the beginning of the new millennia, wireless capsule endoscopy was introduced as a minimally invasive method of inspecting the digestive tract. The possibility of collecting images deep inside the human body just by swallowing a “pill” revolutionized the field of gastrointestinal endoscopy and sparked a brand-new field of research in robotics: <em>medical capsule robots</em>. These are self-contained robots that leverage extreme miniaturization to access and operate in environments that are out of reach for larger devices. In medicine, capsule robots can enter the human body through natural orifices or small incisions, and detect and cure life-threatening diseases in a non-invasive manner. This talk will provide a perspective on how this field has evolved in the last ten year. We will explore what was accomplished, what has failed, and what were the lessons learned. We will also discuss enabling technologies, intelligent control, possible levels of computer assistance, and highlight future challenges in this ongoing <em>Fantastic Voyage</em>.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – Virtual – WebEx</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h1><em>Virtual Meeting</em></h1>
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>13 May 2021 @ 6:00 PM – 7:00 PM MT<del></del></h2>
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<div><img class="size-full wp-image-2047 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2021/04/Dr-Deshmukh-1.png" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Dr. Jyotirmoy V. Deshmukh</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Assistant Professor of Computer Science at University of Southern California Viterbi, School of Engineering</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. Jyotirmoy V. Deshmukh joined the Department of the University of Southern California as a new faculty in August 2017. He transitioned to his role as an educator after five years of work as a Principal Research Engineer at Toyota Motors North America R&amp;D. At Toyota, Dr. Deshmukh helped bridge the gap between academic research and industrial practice through requirement engineering and testing methods. Before joining Toyota, Dr. Deshmukh was the 2010 Computing Innovation Post-Doctoral Fellow at the University of Pennsylvania under the mentorship of Rajeev Alur.</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. Deshmukh  was awarded his Ph.D. in computer engineering from the University of Texas at Austin in 2010, where he was advised by E. Allen Emerson - a recipient of the prestigious A.M. Turing Award. Dr. Deshmukh's current research interests include the application of formal methods to reason about cyber-physical systems, verification and testing of embedded control systems, real-time temporal logic, and analyzing time-series data. He is particularly interested in studying cyber-physical systems that use machine learning based components, such as autonomous driving vehicles.</p>
+</div>
+<div>
+<h3>Presentation: <strong>Specification-driven Design of Autonomous Systems </strong></h3>
+</div>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: Machine learning-based techniques such as deep reinforcement learning (Deep RL) have shown a lot of promise in automatically synthesizing controllers for autonomous cyber-physical systems that operate in uncertain environments. The basic idea in RL is to treat the control software as an agent to be trained; in each state, the agent performs some action, and the environment probabilistically determines its next state and the reward that it should receive. RL algorithms try to maximize the payoff that the agent would receive over a long-term horizon. Deep RL algorithms extend RL by using deep neural networks to model functions that map states (and actions) to expected rewards, and/or the control policy for the agent. In general, RL algorithms crucially rely on an expert user to design state-based localized reward functions with the understanding that desired system behavior occurs when the reward payoff is optimized. Unfortunately, there are documented cases of reward hacking: where the agent learns to maximize the reward while exhibiting undesirable or unsafe behavior. Thus, for adoption of deep RL algorithms in the design of safety-critical autonomous systems, it is important to carefully design reward functions. In this talk, we propose a new paradigm for (deep) RL algorithms, where instead of providing state-based rewards, the user specifies the desired behavior of the system using a formal specification language (such as Signal Temporal Logic or STL). We then explore two different approaches for a systematic inference of reward functions: the first in which we map STL specifications to localized state-based rewards, and the other in which we combine the system specification with user-provided demonstrations to learn safer control policies. We demonstrate the efficacy of our technique on examples from the autonomous driving domain.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – Virtual – WebEx</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h1><em>Virtual Meeting</em></h1>
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>11 Mar 2021 @ 5:00 PM – 6:00 PM MT</h2>
+<div><img class="wp-image-1987 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2021/01/Dr-Carlos-Henrique-Cabral-Duarte.png" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Dr.Carlos Henrique Cabral Duarte</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">National Bank of Social and Economic Development</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">IEEE Computer Society Distinguished Speaker</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. Duarte is a senior member of technical staff at the Brazilian Development Bank (BNDES). He is now on a temporary work assignment at the Brazilian Institute of Statistics and Geography (IBGE). Dr. Duarte earned his BMath degree with a minor in Informatics from the Computer Science Department at the Federal University of Juiz de Fora. He earned an MSc degree in Informatics from the Department of Informatics at the pontifical Catholic University of Rio de Janeiro and a Ph.D. degree in Computer Science from the Department of Computing at the Imperial College, London. His research focuses on Software Engineering (SE), Distributed Systems (DS), Public Policies for Information and Communication Technology (ICT) Industry Development (Pol-ICT). In SE and DS, he studies and develops processes (from requirement elicitation and design to implementation) and application areas (programming languages, database systems, etc). Concerning Pol-ICT, he has studied, developed, and applied technology transfer, financing, and digital transformation.</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. Duarte is currently a strategies advisor to the IBGE. At BNDES, he served as the financing analyst of accredited machines, equipment, components, and Systems (2012 - 2020). Previously he was the operations manager, in charge of funding more than 50 technology companies, two now listed in the Bovespa Stock Market. He was the BNDES representative in the National Information Technology Advisory Committee of the Ministry of Science, Technology and Innovation (CATI/MCTI, 2003-12) and deputy board member of the Society for the Promotion of Brazilian Software Excellence (Softex, 2003-12). He has written, reviewed, and edited many papers for scientific journals and conferences.</p>
+</div>
+<h3>Presentation: <strong>Digital Transformation </strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: The maturation of disruptive digital technologies (such as robotics, the Internet of Things, and artificial intelligence), in conjunction with their ubiquitous introduction in many different domains, has given rise to digital transformation in businesses, governments, and society. A business-oriented high-level overview of digital transformation will provide specific examples of digital transformation projects and other activities. This lecture will present digital transformation viewpoints, approaches, challenges, and opportunities to include definitions and online resources. These digital transformation notions are analyzed from strategic planning and public policy forecast perspectives and will also be illustrated using a database of business cases. These cases and notions of digital transformation will allow us to also analyze the mutual influence that digital transformation and software /requirements engineering have on each other.</p>
+<p style="margin-left: 20px;padding-left: 10px">This presentation is by one of the IEEE's best digital transformation experts and trainers. We are expecting a large and diverse turn out, please join us in learning from Dr. Duarte's years of experience and education. This is going to be a great event! See you there.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – Virtual – WebEx</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h1><em>Virtual Meeting</em></h1>
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>11 Feb 2021 @ 6:00 PM – 7:00 PM MT</h2>
+<div><img class="wp-image-1991 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2021/01/Dr.-Kevin-Moore.png" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Dr. Kevin Moore </p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Executive Director of the Humanitarian Engineering Program and Director of the new Robotics Program</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Colorado school of Mines</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. Kevin L. Moore is a professor at the Colorado School of Mines in the Division of Engineering, Design, and Society and the Department of Electrical Engineering. He received his B.S and M.S. degrees in electrical engineering from Louisiana State University in 1982 and from the University of Southern California in 1983 respectively. He received his Ph.D. degree in electrical engineering, with an emphasis in control theory, from Texas A&amp;M University in 1989. At Mines he was previously the Vice Provost for Strategic Initiatives and Dean of Integrative Programs (2018-2020) and the Interim Director of Mines' Division of Economics and Business (2019). He was previously Dean of the College of Engineering and Computational Sciences (2011-2018), overseeing programs in civil, electrical, environmental, and mechanical engineering, as well as applied mathematics, statistics, and computer science. He held the G.A. Dobelman Distinguished Chair from 2005-2013. Prior to his time at Mines, he held faculty and leadership positions at Utah State University and Idaho State University. He has industry experience via consulting and as a Member of the Technical Staff at the former Hughes Aircraft Company.</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. Moore’s general interests are in the area of control systems, intelligent control theory, and autonomous systems. He is the author of the research monograph Iterative Learning Control for Deterministic Systems, published in 1993 by Springer-Verlag. He was a USU College of Engineering and ECE Department Researcher of the Year in 1999-2000, ISU Outstanding Researcher of the Year in 1996-1997, and received the 1993 DOW Outstanding Young Faculty Award from the Pacific Northwest Section of the American Society for Engineering Education. He is currently an ABET Program Evaluator representing ASEE and IEEE.</p>
+</div>
+<div>
+<h3>Presentation: <strong>Perspectives and Connections: From Control Theory to Intelligent Robots to Cooperative Autonomy </strong></h3>
+</div>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: In this talk we give perspectives on the problem of devising autonomous systems by describing several threads of research from the speaker’s experience. After a brief introduction to the past and present of robotics at the Colorado School of Mines, we begin showing how a control-theoretic point of view can be exploited to develop single-entity autonomous systems, such as mobile robots and autonomous systems that can be considered “intelligent.” We emphasize a system engineering view on the conceptual design and integration of (a) the components used in unmanned systems, including the locomotion, sensors, and computing systems needed to provide inherent autonomy capability, and (b) the algorithms and architectures needed to enable control and autonomy, including path-tracking control and high-level planning strategies. We then consider the use of multiple autonomous systems that cooperate to achieve a collective goal, primarily via the theoretical notion of “consensus.” Throughout the talk concepts are illustrated using case study examples from robotic and unmanned systems developed by the author and his colleagues over the past 20 years. Further, throughout the talk we provide comments on research that may be helpful to students and professional practitioners, emphasizing the importance of connections between what at times might seem to be disparate research areas that come together to enable advances.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – Virtual - WebEx</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h1><span style="background-color: #00ffff">* Honors and Past Events - 2020 *</span></h1>
+<hr /><hr />
+<h1><em>Virtual Meeting</em></h1>
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>10 December 2020 @ 6:00 PM - 7:00 PM MT</h2>
+<div><img class=" wp-image-1339 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2019/07/Sherry-Jones.jpg" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Ms. Sherry Jones</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Philosophy and Game Design Subject Matter Expert and Instructor</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Rocky Mountain College of Art &amp; Design and Co-Founder of Social Good Engine, LLC</p>
+<p style="margin-left: 20px;padding-left: 10px">Sherry Jones holds an advanced graduate certification in teaching writing from Johns Hopkins University and MH in philosophy from the University of Colorado Denver. She is a philosophy and game design subject matter expert and instructor at Rocky Mountain College of Art and Design. She also serves as the editor-in-chief of The Liminal: Interdisciplinary Journal of Technology in Education and as a steering committee board member of the International Game Developers Association (IGDA) Learning, Games, and Education. The U.S. Dept. of Education invited Ms. Jones to attend June 20, 2019 Summit on Education Blockchains to discuss policies on using blockchains to create digital identities and render educational data secure, accessible, and portable with zero-knowledge proofs.</p>
+<p style="margin-left: 20px;padding-left: 10px">Ms. Jones has published book chapters including exploring Nietzschean virtue ethics with the digital game, Life is Strange (upcoming 2019, ETC Press), and articles including “A Solution to OER Publication Resistance: Using Blockchain Technology to Protect Scholar Copyright” (2018, IJOER). Ms. Jones is the co-founder of Social Good Engine, LLC., an educational company that designs digital apps and games based on philosophical theories. Her current game-in-development is Elocutio, a 3D space-themed MMORPG that promotes evidence-based argumentation via Hegelian dialectic.</p>
+</div>
+<h3>Presentation: <strong>Ethics in Programming and Computer Gaming</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: Current code of ethics and professional conduct in programming, as recommended by the Association for Computing Machinery (ACM), includes such ethical principles as avoid causing harm to users, respect users’ privacy, and fulfilling one’s social responsibilities. Although ACM’s code of ethics encourages programmers to operate in good faith and consider their responsibilities to a society or nation, the code does not address how programmers, bound by a company’s code of ethics while acting at the behest of the company’s corporate interests, should respond to ethical challenges that arise as companies expand across national borders, such as surveillance capitalism, cultural and moral relativism, or globalization and nationalism. This presentation will examine current ethical problems in the technology and the gaming industries and proposes a re-examination of ethics in programming by revisiting the moral philosophies of Foote, Nietzsche, Rachels, and other thinkers.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – Virtual – WebEx <a href="https://youtu.be/T78cFWaWaBQ">Youtube video</a></p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h1><em>Virtual Meeting</em></h1>
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong>– Technical Meeting</strong></h2>
+<h2>12 November 2020 @ 6:00 PM – 7:00 PM MT<del></del></h2>
+<div>
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Mr. Ashwin Pingali</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Information Technology Engineer, Manager, and Expert Consultant</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Chief Technology Officer for Aivante&lt;/p</p>
+<p style="margin-left: 20px;padding-left: 10px">Ashwin Pingali has completed his PhD in Computer Science &amp; Information Technology with the University of Colorado, Denver (All but Dissertation). An MBA in Operations, Information Systems and Marketing with the  Indian Institute of Management and a BS in Engineering Technology (Gold Medal Honors) with the Jawaharlal Nehru Technological University, Hyderabad India. Ashwin is currently working as the CTO for Aivante a health care fintech startup and Apps Consultants a company focused on bringing Big Data technologies into everyday business operations. Dr (ABD) Pangali Dissertation research on “How IT can change mental models to improve decision-making effectiveness” has lead him to curtail his theoretical academia pursuits for more applied research path. Ashwin’s current research focus and skills are in Artificial Intelligence, Deep Learning and Cognitive Computing, and his specialty is in bringing both graph based mathematical representations to healthcare expenditure contexts, creating probabilistic models of reasoning and using Big Data predictive technologies  to aid in the processing of large contextual graphs for actionable decision making.</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr Panglai additionally consults with Dish Networks as a Data Scientist helping their budding Enterprise Data Science execute Predictive Modeling and Optimization projects in AdTech and Fraud Monitoring. Dr Pangali achievements at Dish Networks includes building a complex forecasting system to generate over 500,000 forecasts for improving yield management. Dr Pangali is currently working on Ad-Brain an initiative to embed AI into Ad capacity planning and pricing.</p>
+</div>
+<h3>Presentation: <strong>Individual Entity Journeys, Aggregated Entity Journeys and Process Maps </strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: An entity is a customer who interacts with an organization in several different ways that may be categorized as customer journey. Some customer journey examples include; a user phone call where one clicks on an option then gets transferred to a particular agent and then finally completes the call and a customer who may be browsing a website and then adds items to a cart and purchases something. This journey can be for any entity, not just a customer, but also for products, services, etc. For a company, to make decisions they cannot just look at each individual customer journey rather they need to look at the bigger picture and if necessary drill down to the individual customer journey. In this presentation, we will look at how to aggregate different entity journeys together to create what we call a process map. This way of combining gives us the actual process and derived from the data. We will look at examples of entity journeys and process journeys from the standpoint of a graph database. The major takeaways for audience will be how to look at events happening over time and the final outcome and how they relate to each other. Please come and join use for an outstanding presentation on cutting edge database technology. Please join us in learning more about Database theory and the real applications of cutting edge Database design.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – Virtual – WebEx</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h1><em>Virtual Meeting</em></h1>
+<h2>Joint Event</h2>
+<h2><strong>IEEE Colorado Springs Computer Society </strong></h2>
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>05 November 2020 @ 5:00 PM - 6:30 PM MT<del></del></h2>
+<div><img class="wp-image-1900 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2020/09/Dr-Pham-2-.png" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Dr. Trung T. Pham</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Professor &amp; Researcher</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Cyberworx and Department of Computer Science of the United States Air Force Academy</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. holds a BS, MS, and PhD in Electrical &amp; Computer Engineering from Rice University in Houston Texas. Dr Pham is a research engineer with over 20 years of experience in space industry, and a professor with over 15 years of experience.</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr Pham is currently working for the Cyberworx and Department of Computer Science of the United States Air Force Academy in Colorado Springs, Colorado, USA. Previously Dr Pham has worked at NASA Johnson Space Center, the University of Houston, and the University of Talca. Dr Pham’s research interests include artificial intelligence, computational algorithms, cryptology, data mining, image processing, and system modeling. His most recent funded project is modeling of human memory where he found interest in quantum computing. Dr. Trung is a Senior Member of the Institute of Electronic &amp; Electrical Engineering and within the International Society of Automation. Dr Trung is an executive committee in the IEEE Pikes Peak Section and has previously served as the Vice Chair in Robotics for the IEEE Galveston Bay Section.</p>
+</div>
+<h3>Presentation: <strong>Application for Quantum Memory</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: This presentation will focus on developing a specific Application for Quantum Memory to hold data in a superimposing fashion so that an infinite amount of data can be stored without ever running out of memory space. The application is a concept in evolution, developed for storing digital images into the memory bank consisting of many quantum bits. Instead of using the traditional concept of data storage in a digital computer where a block of memory is used to store only one set of data and afterward this block is reserved so that no further storing is possible, this application proposes to use the same block of quantum memory to store new data repeatedly and indefinitely. Thus, algorithms for storing and retrieving data are developed, and numerical simulations are presented to demonstrates the work-ability of the concept.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – Virtual – WebEx</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h1><em>Virtual Meeting</em></h1>
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>08 October 2020 @ 6:00 PM - 7:00 PM MT<del></del></h2>
+<div><img class="wp-image-1760 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2020/01/Aju-Jugessur-.png" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Dr. Aju Jugessur</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Director, Colorado Nanofabrication and Characterization (COSINC) Center</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">University of Colorado, Boulder</p>
+<p style="margin-left: 20px;padding-left: 10px">Aju Jugessur received a PhD in Optoelectronics, Electronic engineering with a focus on nanofabrication from the University of Glasgow, followed by a postdoctoral fellowship at McGill University. Dr. Jugessur expertise is in the area of photonic devices, nanolithography and nanofabrication. Dr. Jugessur was a senior research scientist in the Department of Electrical and Computer Engineering at the University of Toronto and the manager of the nanolithography facility, Toronto Nanofabrication Center, where he spearheaded the establishment and development of a state-of-the-art nanolithography facility. Dr. Jugessur has introduced several training materials and courses on nanolithography, micro- and nano fabrication and developed the first online, real-time course in the area of nanofabrication. Dr. Jugessur founded the University of Iowa Microfabrication Facility and led the facility as its director from April 2012 to September 2018. Dr. Jugessur is currently the Director of the Colorado Shared Instrumentation in Nanofabrication and Characterization (COSINC) within the College of Engineering and Applied Science at the University of Colorado, Boulder.</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. Jugessur has extensive experience in leading the design, development and management of state-of-the-art nanoscale cleanroom facilities for research, education and training. Dr. Jugessur's research interests are at the crossroads of several areas such as photonic crystals, nanofabrication and optical sensing. Dr. Jugessur has authored numerous scientific and technical journal publications and is also a Senior member of IEEE.</p>
+</div>
+<h3>Presentation: <strong>Shared Facilities Enabling Nanoscale Science and Technology </strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: Nanoscale fabrication and material characterization is the meeting ground of diverse disciplines ranging from engineering, physics, chemistry to environmental science, biology, and medicine. Most of these disciplines converge at the nanoscale, towards the same building blocks, principles, tools of investigation and fabrication. The Colorado Shared Instrumentation in Nanofabrication and Characterization (COSINC) offers a platform for the convergence of multiple scientific and engineering disciplines and facilitates collaborative research with strategic partners and information exchange.  COSINC aspires to play an instrumental role in leading Colorado in these areas within the region, while impacting and enabling innovations in a wide range of scientific and technological research areas, ranging from electronics, photonics, quantum science, energy and environment to bio-medical, pharmaceutical and nanomedicine. This presentation will present several key capabilities and state-of-the art instrumentation for nanoscale fabrication and characterization, including a broad range of research projects and application areas, enabled by the technologies within COSINC.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – Virtual – WebEx</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h2>Joint Event</h2>
+<h2><strong>IEEE Colorado Springs Computer Society </strong></h2>
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>01 October 2020 @ 5:00 PM - 6:30 PM MT<del></del></h2>
+<div><img class="wp-image-1900 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2020/09/Dr-Pham-2-.png" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Dr. Trung T. Pham</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Professor &amp; Researcher</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Cyberworx and Department of Computer Science of the United States Air Force Academy</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. holds a BS, MS, and PhD in Electrical &amp; Computer Engineering from Rice University in Houston Texas. Dr Pham is a research engineer with over 20 years of experience in space industry, and a professor with over 15 years of experience.</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr Pham is currently working for the Cyberworx and Department of Computer Science of the United States Air Force Academy in Colorado Springs, Colorado, USA. Previously Dr Pham has worked at NASA Johnson Space Center, the University of Houston, and the University of Talca. Dr Pham’s research interests include artificial intelligence, computational algorithms, cryptology, data mining, image processing, and system modeling. His most recent funded project is modeling of human memory where he found interest in quantum computing.</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. Trung is a Senior Member of the Institute of Electronic &amp; Electrical Engineering and within the International Society of Automation. Dr Trung is an executive committee in the IEEE Pikes Peak Section and has previously served as the Vice Chair in Robotics for the IEEE Galveston Bay Section.</p>
+</div>
+<h3>Presentation: <strong>Introduction to Quantum Computing</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: This presentation is an introduction to quantum computing and will address the basic concepts of quantum computers and the usage of quantum bits to represent analog data. This presentation will example logical operators traditionally developed for standard semiconductor based computer binary data. Then we will extend standard binary processes in to quantum bits of data. The extended quantum computer operators will serve as guidelines for hardware developers to design basic quantum computing units that can be combined into a complex quantum computers. This Introduction to Quantum Computers presentation will cover the basics of standard computers in to more advanced quantum data and operators and is connected to the next months talk, “Developing Applications for Quantum Memory.”</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – Virtual – WebEx</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h2>Joint Event</h2>
+<h2><strong>IEEE Pikes Peak Computer Society &amp; </strong></h2>
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>Date - 06 August 2020 @  5:00 PM - 6:00 PM MT</h2>
+<div><img class="speaker_photograph alignright" src="https://events.vtools.ieee.org/event/speaker/photograph/520135" alt=" " width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer, Information Theory, and Robotics Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Mr. Gene Freeman</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">IEEE Life Member and 40 Year Computer and Electronics Engineer, Manager, and Subject Expert</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">IEEE Pike Peak Computer Society Chair</p>
+<p style="margin-left: 20px;padding-left: 10px">Gene Freeman worked in the Electronics Industry from 1977 until his retirement in 2018.<span class="Apple-converted-space">  </span>He worked in R and D both as an individual contributor and manager. <span class="Apple-converted-space">  </span>His employers included<span class="Apple-converted-space">  </span>Hughes Aircraft, Northrup, Teledyne Inet, Texas Instruments, NCR Microelectronics, Compaq, Hewlett Packard Enterprise. <span class="Apple-converted-space">  </span>He started out working with PC boards then moved to IC Development and then to System Integration. <span class="Apple-converted-space">  </span>Key products<span class="Apple-converted-space">  </span>included PC Servers, Microcomputers and Controllers , Volatile and Non Volatile Memories, Storage Interconnects, Graphic Chips, BMCs, DSPs, Automotive ASICS,<span class="Apple-converted-space">  </span>Optical Interconnects, and UPS Controllers.<span class="Apple-converted-space">  </span>Gene served on several patent committees and was a member of<span class="Apple-converted-space">  </span>industry consortia including ANSI T11 (Fibre Channel) and JEDEC Memory Committees.<span class="Apple-converted-space">    He is the current chair of the IEEE Computer Society -- Pikes Peak Chapter and a Life Member of IEEE.</span></p>
+</div>
+<h3><strong>Presentation: </strong>Who Invented the Integrated Circuit?</h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: The integrated circuit is one of the greatest inventions of the 20<sup>th</sup> century and continues its dominance as an electronic packaging technology<span class="Apple-converted-space">  </span>in the 21<sup>st</sup> Century.<span class="Apple-converted-space">  </span>This talk focuses on its beginnings and looks at the controversies around attribution of “who was first?”  We start with the invention of the transistor by William Shockley in the 1940’s at Bell Labs. <span class="Apple-converted-space">  </span>We then talk about the motivation for the Integrated Circuit and look at the implementation approaches. <span class="Apple-converted-space">  </span>Finally, we examine the<span class="Apple-converted-space">  </span>Integrated Circuit patent<span class="Apple-converted-space">  </span>fight between Texas Instruments (Jack Kilby) and Fairchild Semiconductor (Robert Noyce).<span class="Apple-converted-space">  </span>We conclude with the Nobel Prize awarded to Jack Kilby from Texas Instruments in the year 2000.<span class="Apple-converted-space">  </span>As a special bonus we find out what Kilby’s IC prototype was worth in 2014. This technical meeting will be a joint virtual event with the Pikes Peak and Denver Computer societies please join us for another great event and a chance to meet out fellow engineers in Colorado Springs.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – Virtual – WebEx</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>13 February 2020 @<strong> 6:00 PM - 9:00 PM MDT</strong></h2>
+<div><img class="wp-image-1231 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2019/06/Dr-Fischer-big.jpg" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Mr. William Fischer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Biological, Electrical, and Information Systems Engineer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Patent Attorney</p>
+<p style="margin-left: 20px;padding-left: 10px">William Fischer holds a JD from the University of Colorado School of Law, a BS in Electrical Engineering from the College of Engineering &amp; Applied Science of the University of Colorado - Boulder, a BS in Biotechnology from Rutgers University and an MS in Molecular Bioscience &amp; Biotechnology from Lehigh University. Mr. Fischer is a licensed attorney in Colorado and Washington State, and is registered to practice as a patent attorney before the U.S. Patent &amp; Trademark Office. William, along with his network of trusted professionals, assists businesses and individuals in a variety of business and personal matters. Mr. Fischer's patent, trademark, copyright and trade secret law practice provides clients counseling, drafting, and advice on cost effective acquisition, protection and monetization of intellectual property to advance business goals. Mr. Fischer engages both domestic and foreign clients involved in business and technological endeavors in diverse industries, including communications, medical devices, robotics, financial services, automotive, aviation, oil and gas, integrated circuits, control systems, power generation and distribution, tools, machinery, and consumer products.</p>
+<p style="margin-left: 20px;padding-left: 10px">Mr. Fischer's experience in multi-disciplinary science, engineering, business, and legal roles in diverse industries provides informed perspectives for executing intellectual property strategies for accomplishing business goals. William's professional experience, including 10 years in patent practice, enables him to provide expert advice and services in electrical, computer, software, mechanical and biomedical engineering technologies spanning manufacturing, AI, IoT, control systems, business methods, mechanical devices, and industrial designs.</p>
+</div>
+<h3>Presentation: <strong>Cost-effective intellectual property protection strategies</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: With an ever increasing array of US and foreign entities filing patent applications for inventions, obtaining effective advice and assistant for your technical and business ventures is crucial. In this presentation, basics of patent law and the mechanics of seeking patent and other forms of intellectual property rights will be summarized. Some examples of patent applications and patent examination will be illustrated to demonstrate the process and to highlight potential pitfalls. Several ways to increase the odds of success and maximize the value of patent claims will be discussed, along with proven strategies to ensure that all potentially protectible aspects of inventions are analyzed and accounted for. Please come and join us for a great presentation from a scholar that has many great years of engineering and judicial experience. This will be a great event don't miss it!</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – University of Denver, (Room 400) 2155 E Wesley Ave, Denver, CO 80208</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>16 January 2020 @<strong> 6:00 PM - 9:00 PM MDT</strong></h2>
+<div><img class="wp-image-1269 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2019/06/Haluk-Ogmen-Big-1.jpg" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Dr. Haluk Ogmen</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Professor and Senior Associate Dean</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Ritchie School of Engineering and Computer Science - University of Denver</p>
+<p style="margin-left: 20px;padding-left: 10px">Haluk Ogmen holds a B.Sc.A. and a Ph.D. in Electrical Engineering, both from the Université Laval, Québec, Canada. Haluk is a Professor of Electrical and Computer Engineering and serves as Senior Associate Dean at the Ritchie School of Engineering and Computer Science at the University of Denver.  Haluk’s research interests include natural and artificial intelligence, human visual perception, attention, memory and learning. His research is multi-disciplinary and combines theoretical, computational, and empirical approaches to reverse-engineer the human brain.</p>
+</div>
+<h3>Presentation: <strong>Artificial versus Natural Intelligence </strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: In this presentation, Dr Haluk Ogmen will provide a brief overview of the history of studies of intelligence and mind from a multi-disciplinary angle, including philosophy, psychology, neuroscience, and cognitive science perspectives. we will also discuss parallel efforts to build artificial intelligence systems and trace their relationships to the studies of natural intelligence. Dr Ogmen primary argument will support that, if artificial intelligence is to be more like human intelligence, it needs to abandon its aprioristic or empiristic bases and instead adopt a constructivistic approach following the stages of cognitive development in infants. This presentation is going to be a cutting edge venture into AI, artificial thought, and cognition - we hope to see you there.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – University of Denver, (Room 200) 2155 E Wesley Ave, Denver, CO 80208</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h1><span style="background-color: #00ffff">* Honors and Past Events - 2019 *</span></h1>
+<hr /><hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2><strong>12 December 2019 @ 6:00 PM - 9:00 PM MDT</strong></h2>
+<div><img class=" wp-image-1227 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2019/06/Dr-Stephan-Gerali-big-e1559495013500.jpg" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Dr. Stephan Gerali</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Chief Software Architect and Engineer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Lockheed Martin Fellow</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. Gerali has his B.S., M.S. and Ph.D. in Computer Science from the University of Colorado and his MBA from Colorado State University. Stephan is certified in Java, BEA WebLogic, Six Sigma and Secure Software Engineering. Dr. Gerali is a Lockheed Martin Fellow specializing in Software Architecture / Software Engineering with more than 22 years of experience working on large-scale distributed systems. Stephan is currently the Chief Architect for Space IT supporting solutions across the entire Space business area.</p>
+<p style="margin-left: 20px;padding-left: 10px">Within Lockheed Martin, Stephan has supported IS&amp;GS (Information Systems &amp; Global Solutions) in Army (All Source Analysis System and Future Combat System), USSTRATCOM (Strategic Threat Analysis Reporting System) and Air Force (Single Integrated Space Picture) command and control systems and within EIT (Enterprise IT) has supported LMPeople, LMCareers, Performance Based Logistics, University Relations Recruiter’s Network, Center for Leadership Excellence, Non-Employee Access Tracking, Infrastructure Health Management, Event Correlation &amp; Analysis, Enterprise Data Warehouse / Business Intelligence and Digital Tapestry.</p>
+</div>
+<h3>Presentation: <strong>Delivering Real Time Monitoring of Industrial Machines using AWS IoT Services</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: We will learn how information technology may be teamed up with Amazon Web Services (AWS) to deliver an integrated Internet of Things (IoT) solution for data capture, data transformation, data storage, data analytics and data visualization for real time monitoring of industrial machines used in the IoT manufacturing process. This presentation will cover the deployment of a full IoT solution to include: Kepware ServerEX for connectivity to industrial protocols, AWS IoT Core for IoT data processing, Amazon S3 for scalable storage of IoT data, MTConnect for a common data model for industrial machine telemetry data, Amazon EMR for interactive analytics on IoT data, Tableau for visualization of IoT data and SIAT for automated anomaly detection for industrial telemetry data. In addition, we will summarize the future roadmap for other AWS IoT Services. Please join us for a great presenter and presentation on information technology, Amazon Web Services (AWS), and integrated Internet of Things (IoT) solutions and integration.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – University of Denver, (Room 410) 2155 E Wesley Ave, Denver, CO 80208</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>15 November 2019</h2>
+<div>
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Mr. Wendell Chun</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Electrical, Mechanical, and Systems Engineer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Director of Corporate Programs, and Professor at University of Denver</p>
+<p style="margin-left: 20px;padding-left: 10px">Mr Wendall Chun holds a MS in Industrial Administration from Carnegie Bosh Institute at Carnegie Mellon University, and a BS in Mechanical Engineering from University of Hawaii Manoa. Mr. Wendell Chun has more than 33 years of experience engineering spacecraft and robotics, including the Walking Beam rover and multiple DARPA research programs. Mr. Chun has taught many Denver engineering students with more than 20 years of teaching experience. Mr. Chun has taught for the Colorado School of Mines and currently the University of Colorado Denver, including such courses as design, controls, mechatronics, robotics, and systems engineering and even project management.</p>
+<p style="margin-left: 20px;padding-left: 10px">Mr. Chun has worked as a technical consultant and reviewer for DOE Headquarters, reviewer for NSF, and a reviewer for NASA Headquarters in the area of Robotics and Automation even helped several small businesses develop automated work cells for production assembly and packaging. Mr. Chun has also taken the lead in the IEEE locally and as an associate editor for the IEEE ICRA conference (2018/2019) and workshop organizer at IEEE ICRA 2012.</p>
+</div>
+<h3>Presentation: <strong>Robotics Research and Development</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: There has been a promise of robots and artificial intelligence to serve mankind in a futuristic machine age.  A major topic has been the role of automation and the role of human operators.  The required technologies are moving so fast, it is hard to say where this technology will lead us.  Both a robot and its environment can be complex, represented by uncertainties that has driven a need for autonomy.  There has been some successes in robotics such as the Mars Rovers.  In the beginning of the movement smart robot systems as demonstrated by research programs in exoskeletons, autonomous navigation, walking machines, military vehicles, aerial drones, polymorphic robots, and satellite servicing systems for spacecraft.  This talk will review the state of the art of the technology, the successes, and were we plan to be tomorrow.  This future may be predicated on machines that are able to think, learn, and reason about itself and its environment.  We touch on Moore’s law, the upcoming singularity, and the validity of the Turing test for intelligence.  Based on thirty years of hands-on-experience in this field, we take a look at current trends in both robotics and direction of artificial intelligence.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – University of Denver, (Room 400) 2155 E Wesley Ave, Denver, CO 80208</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2><strong>Denver IEEE Computer Society Guest Lecturer:</strong></h2>
+<h2>18 October 2019</h2>
+<div>
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Mr. Ashwin Pingali</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Information Technology Engineer, Manager</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Expert Consultant - Chief Technology Officer for Aivante</p>
+<p style="margin-left: 20px;padding-left: 10px">Ashwin Pingali has completed his PhD in Computer Science &amp; Information Technology with the University of Colorado, Denver (All but Dissertation). An MBA in Operations, Information Systems and Marketing with the  Indian Institute of Management and a BS in Engineering Technology (Gold Medal Honors) with the Jawaharlal Nehru Technological University, Hyderabad India. Ashwin is currently working as the CTO for Aivante a health care fintech startup and Apps Consultants a company focused on bringing Big Data technologies into everyday business operations. Dr (ABD) Pangali Dissertation research on “How IT can change mental models to improve decision-making effectiveness” has lead him to curtail his theoretical academia pursuits for more applied research path. Ashwin’s current research focus and skills are in Artificial Intelligence, Deep Learning and Cognitive Computing, and his specialty is in bringing both graph based mathematical representations to healthcare expenditure contexts, creating probabilistic models of reasoning and using Big Data predictive technologies  to aid in the processing of large contextual graphs for actionable decision making.</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr Panglai additionally consults with Dish Networks as a Data Scientist helping their budding Enterprise Data Science execute Predictive Modeling and Optimization projects in AdTech and Fraud Monitoring. Dr Pangali achievements at Dish Networks includes building a complex forecasting system to generate over 500,000 forecasts for improving yield management. Dr Pangali is currently working on Ad-Brain an initiative to embed AI into Ad capacity planning and pricing.</p>
+</div>
+<h3>Presentation: <strong>Building Real Time Recommendation Engines</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: We are seeing recommendation engines at work everywhere. When we switch on Netflix, the shows that we see on the screen are coming from a recommendation engine. When we search google, the results that come as well as the ads that are displayed are the result of a complex interplay of several recommendation engines. In this presentation we will look at the mathematics behind Recommendation Engines. The talk will be a presentation but attendees can follow the presenter by getting their hands dirty in building a simple recommendation engine that uses a collaborative filter. (The tutorial will show how to Build an actual recommendation engine that makes recommendations for product purchases and movie recommendations.)   This presentation will describe how a graph database is useful when it comes to recommendations. Please come and join us.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – University of Denver, (Room 357) 2155 E Wesley Ave, Denver, CO 80208</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>12 September 2019</h2>
+<div><img class=" wp-image-1124 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2019/05/Keith-Graham-2.jpg" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Mr. Keith Graham</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Professor of Embedded Systems Engineering</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">The University of Colorado</p>
+<p style="margin-left: 20px;padding-left: 10px">Keith Graham is the "Electrical, Computer, and Energy Engineering" Department's Associate Chair of Undergraduate Education at the University of Colorado (UC), Boulder. At UC Boulder Mr Graham is responsible for aligning the undergraduate education program and developing strategies to educate students for both future academia opportunities and as engineers in industry. Mr. Graham also teaches undergraduate courses in Embedded Software Engineering, Computer Architecture, and courses in CU's Professional Master of Embedded Systems Engineering program in both firmware and hardware for Internet of Things application. Recently, Mr. Graham has additionally also begun to teach a graduate level courses in customizing RISC-V processor cores for specific applications. The basis of this new course Application Specific Instruction Set Processor (ASIP) design has Keith on a journey of re-evaluating how we should teach Computer Architecture after the death of Moore's Law. Mr. Graham's research interests are leading him to currently work toward a project to investigate specialized processors for specific applications.</p>
+</div>
+<h3>Presentation: <strong>Modernizing Computer Architecture Education after the death of Moore's Law</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: Is it the death of Moore's Law that has limited the growth in performance of computers or did a different law breakdown? Dennard Scaling, the concept that as silicon technology node shrinks, the power proportionally will be reduced. For example, if the silicon processing node shrinks in half, power would be reduced in half allowing twice the number of transistors to be on the chip and dissipate the same power as the preceding technology. With Dennard Scaling beginning to breakdown around 2006, the number of transistors could still be added at the cost of dissipating more and more heat. Over the last several years, the power wall has been reached limiting the general processing performance growth from doubling every two years to 3-5%. The demands and requirements for processing power are far out pacing our ability to create faster and faster general processors. To meet today's and future requirements, Application/Domain Specific Computer Architectures will need to be deployed. These architectures can be targeted specific processor cores or cores with customized processing elements to optimize the solution. This talk will discuss Computer Architecture in undergraduate education and possible new ways that Computer Architecture should be taught. We welcome you and hope to see you there, this is going to be a great event!</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – University of Denver, (Room 400) 2155 E Wesley Ave, Denver, CO 80208</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>28 June 2019</h2>
+<div>
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Mr. Hussien Hassen</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Graduate Student Regis University - Information Security Graduating Student and Clinical Nurse</p>
+<p style="margin-left: 20px;padding-left: 10px">Mr. Hassen holds a Graduate Certificate in Cybersecurity from Regis University Colorado, Bachelor of Science in Health Information Management from Western Governors University Utah, Bachelor of Art in Cultural Anthropology from Teikyo Heights University Colorado and Associates of Nursing from Addis Ababa University Ethiopia. Mr. Hassen is engaging in Digital Entrepreneurship and Health information technologies since 2004. Mr. Hassen is presently working as A Clinical Nurse and College Aide at Adams 12 five-star schools. Mr. Hassen’s research interests are computer security, Blockchain Applications in Cybersecurity, health systems and financial systems. Mr. Hassen is a member of the The Institute of Electrical and Electronics Engineers (IEEE), Member of The American Health Information Management Association (AHIMA), and Member of Information Systems Audit and Control Association (ISACA).</p>
+</div>
+<h3>Presentation: <strong><b>Anti Money Laundering in Distributed Ledger Technology – Cross Border Alliance</b></strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: Nontrade financial transactions that cross a border and do not route through traditional banking channels provoke economic instability in a given country. However, the rise of transaction laundering into prominence demanded strict banking regulatory enforcement action. The high banking transaction cost and rigidity of the Anti-Money Laundering (AML) governance structure are the impetus of business users to seek alternative operations. Stealthy shadow banks are persistent as a medium for money laundering, corruption, and terrorism financing for a cyber attack against existing transaction systems. This presentation will identify the detection and investigation of transaction laundering to combat terrorism financing and corruption. We will use the whole of government approach to support AML activities by deploying distributed ledger technology across existing services to significantly improve foreign exchange earnings of countries. Please join us!</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – University of Denver, (Room 300) 2155 E Wesley Ave, Denver, CO 80208</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>09 May 2019</h2>
+<div><img class=" wp-image-1098 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2019/04/Dr-Chang-self_small_square.jpg" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Dr. Christopher Chang</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Sr. Research Scientist - National Renewable Energy Laboratory</p>
+<p style="margin-left: 20px;padding-left: 10px">Chris Chang holds a PhD in Biochemistry from the University of Wisconsin-Madison, and a BS in Biochemistry from Virginia Tech. Chris has additionally completed a postdoctoral study at the University of Florida, on computational chemistry of iron and manganese complexes related to nitrile hydrolysis and oxalate breakdown in biological systems. Chris is currently researching at the National Renewable Energy Laboratory (NREL) in Golden, CO. At NREL, Chris focuses on computing software and workflows, electronic structure, and quantum computing as an emerging technology. Chris is a Senior IEEE and a Computer Society member.</p>
+<p style="margin-left: 20px;padding-left: 10px">Chris has contributed to 27 scholarly articles and book chapters across such topics as high-performance computing (HPC), hydrogenase, systems biology, electronic structure and chemical bonding, EPR spectroscopy, enzymology, and molecular biology. Chris has received several honors, including a Ruth L. Kirschstein NIH postdoctoral fellowship, NREL Director’s and President’s awards, and most recently Department of Energy recognition for his role in benchmark and performance testing for Eagle, NREL’s latest multi-petaflop high performance computing cluster.</p>
+</div>
+<h3>Presentation: <strong>High Performance Computing at the National Renewable Energy Lab</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: As scaling laws and the relentless march of information technology have driven increasing fidelity and scope of simulations, computational science, engineering, and analytics (CSEA) has taken an ever greater role in engineering and investigation. This trend intersects the great challenges of our times at the National Renewable Energy Lab, where CSEA is actively applied to materials discovery, energy-efficient design, Smart Grid technologies, and much more. The new linchpin of this activity is Eagle, NREL’s 8-petaflop, 2100-node compute cluster. I will discuss the architecture of this machine, NREL’s Computational Science Center, research computing, and how trends that we see may shape our future systems.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – University of Denver, (Room 300) 2155 E Wesley Ave, Denver, CO 80208</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>25 April 2019</h2>
+<div><img class="alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2019/03/Richard2-1.jpg" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Mr. Richard George</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">VP Strategic Services and Alliances Sierra-Cedar</p>
+<p style="margin-left: 20px;padding-left: 10px">Richard George holds a MS is Computer Science from DePaul University an MBA from the University of Utah, and a BS in Finance from the University of Utah. Richard George is the Vice President at Sierra-Cedar and leads the Strategic Services group which specializes in assisting clients to understand the expected effects of updating its human capital management and enterprise resource Planning systems. Richard speaks to national audiences and authors various articles published in online media. He serves in several NFPs in in Colorado and was awarded the BSA Medal of Honor by President Gerald Ford for saving a life at risk of his own.</p>
+</div>
+<h3>Presentation: <strong>Costs/Benefits of Changing Human Capital, Financial, and Supply Chain Management Systems</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: Many organizations have or are considering moving from on premise back office systems such as, Human Capital Management (HCM), Financial Management Systems (FMS), Supply Chain Management systems (SCM), to systems that are available in the Cloud such as Software as a Service (SaaS). This presentation will present research findings from 1,600 organizations on what back office systems they are using, why they are making a change and some misconceptions about both. Many are moving to SaaS due to update costs, operations, staffing levels, mobility, and the total cost of ownership (TCO). Research has revealed some surprising data which show that on premise systems may have some unexpected life left in them when features are enabled to provide end users with an intuitive and mobile platform. This presentation will be an exciting venture in to enterprise, financial, supply chain, management, and information systems, please join us.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: – University of Denver, (Room 301) 2155 E Wesley Ave, Denver, CO 80208</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>14 March 2019</h2>
+<div><img class=" wp-image-956 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2019/03/Ernest-Worthman.jpg" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Mr. Ernest Worthman</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Electronics Engineer, Researcher, Analyst, and Writer - Current Executive and Editor for Applied Wireless Technology</p>
+<p style="margin-left: 20px;padding-left: 10px">Ernest Worthman is the Executive Editor of AGL's Applied Wireless Technology and Small Cell Magazine and former Technology Editor of Semiconductor Engineering's IoX and security channels. He is also the principal of Worthman &amp; Associates, a contract technical writing and editorial services organization as well as IEEE Senior Life member and IEEE Vehicular Technology Society Senior Member.</p>
+<p style="margin-left: 20px;padding-left: 10px">Mr. Worthman has over 25 years of experience in electrical engineering, high-tech print, and online publishing as an Editorial Director, Technical Editor and high-tech writer. He is also an expert in wireless, computer hardware/software and IT platforms, semiconductors, cybersecurity and the IoX (Internet of Everything). Ernest has publish many articles for Applied Wireless Technology, Small Cell Magazine, RF Design, Communications, Wireless Design and Development. His current clients include Keysight/Agilent Technologies, RF Industries, GLOBALFOUNDRIES, Advanced Linear Devices, IBM, City and County of Denver, and others.</p>
+</div>
+<h3>Presentation: <strong>A Flyover on the Wireless World of Tomorrow</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: The Fly over of the Wireless World of Tomorrow summarizes many current and innovative information data systems and then leads in to many of the newest data communications formats and systems. We will look in to the 802.xx standards as well as some of the other types of communications systems that are leading our technological advancement. This presentation will take a closer look at our next communications power house 5G. Then compare and contrasts several other competing standards and formats. This presentation aims to shed light on what is the benefit of our future communications goals; alternatively, we will also take note of the major physical and technological problems to achieve these goals. Technical data communications is important because many very data intensive systems are just around the corner. In our future we will need every data bit to be sent faster and with better quality. Many research trends in data communications have shown repeatedly that people, places, things, vehicles, and even robots will need more data than we can provide. Where will we get this greater data communication medium? We have many technologies that are showing promise but which will end up as the fastest, most robust, and provide the best service at lower costs. Please join us for A Flyover on the Wireless World of Tomorrow.</p>
+<p style="margin-left: 20px;padding-left: 10px">Date is 14 Mar 2019 - 6:00 pm to 9:00 pm. 2<sup>nd</sup> Thursday</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: The University of Denver, Ritchie School of Engineering (RM 300)</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2> 21 February 19</h2>
+<div><img class="wp-image-725 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2019/01/Alexey_Egorov.jpg" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Mr. Alexey Egorov</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Software Engineer - Cognifield, LLC</p>
+<p style="margin-left: 20px;padding-left: 10px">Alexey Egorov holds a MS in Engineering and BS in Computer Science from The Ural University of Russia. Alexey is a senior level software engineer with over 25 years of programming experience. Alexey is currently working for Cognifield LLC. Alexey’s research interests include artificial intelligence development, machine learning, and natural language understanding.</p>
+</div>
+<h3>Presentation: <strong>Hybrid Intelligent Interface (Machine Learning) </strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: The Hybrid Intelligent Interface is a software system that bridges human and complex environments as a user-friendly interface for convenience and service. Ideal Human Computer Interfaces need a hybrid solution with ontology, natural language understanding, and machine learning tools. This work investigates how to combine understanding and learning in to a system of principles. Of course, each of these tasks has very high complexity, so we need to look for partial restricted solutions. Current solutions can reduce complexity so each subject area may accomplish function while adding user experience and a better understanding of what General AI is and what architecture it should have.  This presentation presupposes the existence of examples of concepts processed by Machine Learning methods and the ability to use them in ontology and related procedures.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: The University of Denver, Ritchie School of Engineering (RM 300).</p>
+<p style="margin-left: 20px;padding-left: 10px">Date is 21 Feb 2019 - 6:00 pm to 9:00 pm.</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2><strong>13 January 19 - </strong><strong>Denver IEEE Computer Society Guest Lecturer:</strong></h2>
+<div>
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Mr. James Gowans</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Computer and Information Theory Society, Denver Chapter Chair</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Electronics and Computer Engineer</p>
+<p style="margin-left: 20px;padding-left: 10px">James Gowans holds a MS in Electronics and Computer Engineering Technology from Indiana State University, a MS in Information Systems and Communications from the University of Denver, and several other graduate certificates in telecommunications, management, and quality systems. James is a senior member in the IEEE computer, information theory, communications society, as well as the U.S. National Committee (USNC) for the International Union of Radio Science (URSI). James current research interests include the synthesis of enterprise architecture, project systems development life cycle models, and quality systems improvement.</p>
+</div>
+<h3>Presentation: <strong>Technical Presentations for Engineers</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: We have been taught since childhood that should not speak up. We try to break our years of training but it is still hard to present or speak up in public. As presenters we speak with practice but at times we can loose ourselves to uncontrollable fight or flight emotion. However, we may all develop confidence at speaking then use our technical knowledge to become great speakers. Within this presentation, we will talk about our future presentation’s purpose, construction, organization, and the delivery. This presentation explains how to easily aurally and visually depict complex information in the simplest and most logical fashion. This presentation focuses on building future presenters as “audience centered speakers” and how to use presentation tools that engage, communicate, motivate, and direct the audience. Public speaking may be thought of as an art but there are skills that we may used to develop our presentations from the most basic to the award winning.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: The University of Denver, Ritchie School of Engineering (RM 410).</p>
+<p style="margin-left: 20px;padding-left: 10px">Date is 13 Jan 2019 2:00 pm to 3:00 pm.</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h1><span style="background-color: #00ffff">* Honors and Past Events - 2018 *</span></h1>
+<hr /><hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>14 December 18</h2>
+<div>
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Dr. Rick Brownrigg</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Software Engineer - National Center for Atmospheric Research</p>
+<p style="margin-left: 20px;padding-left: 10px">Rick Brownrigg holds a PhD, MS, and BS in Computer Science from The University of Kansas. Rick is a senior level software engineer with over 30 years of programming experience. Rick is currently working for National Center for Atmospheric Research and serving as the Denver IEEE Computer and Information Theory Secretary. Rick’s research interests include software development, scientific visualization and computer graphics.</p>
+</div>
+<h3>Presentation: <strong>Webcomponents</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: HTML, CSS and javascript are the foundational technologies for web development on the client side. However, developing modern, richly interactive and highly dynamic applications demands thinking in terms of higher-order concepts, such as UI widgets, behaviors, idioms, experiences, etc. Web Components are one approach to addressing this complexity. Web Components are a set of W3C specifications, rooted fundamentally in HTML, CSS, javascript, which are implemented directly by the browsers. We will identify the specific standards that comprise this technology and, from the perspective of Google's Polymer library, show how these extensions work together to create custom tags. We will further illustrate the use of custom components in a small but non-trivial application. Finally, we will discuss the challenges to adopting Web Components.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: The University of Denver, Ritchie School of Engineering (RM 410).</p>
+<p style="margin-left: 20px;padding-left: 10px">Date is 14 Dec 2018 6:00 pm to 9:00 pm.</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>12 October 18</h2>
+<div>
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Mr. James Gowans</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Computer and Information Theory Society, Denver Chapter Chair</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Electronics and Computer Engineer</p>
+<p style="margin-left: 20px;padding-left: 10px">James Gowans holds a MS in Electronics and Computer Engineering Technology from Indiana State University, a MS in Information Systems and Communications from the University of Denver, and several other graduate certificates in telecommunications, management, and quality systems. James is a senior member in the IEEE Computer, Information Theory, and Communications Societies, as well as a member of the U.S. National Committee (USNC) for the International Union of Radio Science (URSI). James current research interests include the synthesis of enterprise architecture, project management, systems development life cycle models, and quality systems improvement.</p>
+</div>
+<h3>Presentation: <strong>Engineering Process into Modern Simulation and Automation</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: Engineering studies, ventures, and engineering processes have become simulated, emulated, and even developed in to an effort of automation. Such that, many engineering process can be automated using recorded data, logic, and the scientific methods no matter what the field. The Engineering Process into Modern Simulation and Automation presented a looked at development engineering techniques at the time when computers started to enter in to nominal engineering efforts and how computation continues to change our current engineering efforts. Moreover, how advancements have progressed in hardware and software toward powerful processes oriented human operations that are ripe for automation.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: The University of Denver, Ritchie School of Engineering (RM 410).</p>
+<p style="margin-left: 20px;padding-left: 10px">Date is 12 Oct 2018 6:00 pm to 9:00 pm.</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>15 September 18</h2>
+<div><img class="alignright wp-image-889 " src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2019/03/mcpphoto-225x300.jpg" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Distinguished Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Dr. Mark Paulk</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">University of Texas at Dallas - Computer Science Department</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. Mark Paulk teaches software engineering at the University of Texas at Dallas and is a consultant and author in software engineering, software process improvement, high maturity practices, agile methods, and statistical thinking.</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. Paulk was a Senior Systems Scientist at the Institute for Software Research at Carnegie Mellon University from 2002 to 2012, co-authoring the eSourcing Capability Model for Service Providers. From 1987 to 2002, Dr. Paulk was with the Software Engineering Institute at Carnegie Mellon, where he led the work on the Capability Maturity Model for Software. He was co-project editor of ISO/IEC 15504-2 (Software Process Assessment: Baseline Practices Guide), is a 2014-2017 member of the IEEE Software and Systems Engineering Standards Committee (S2ESC) Executive Committee, and is the 2016 Vice President of the Standards Activities Board for the IEEE Computer Society.</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. Paulk received his PhD in industrial engineering from the University of Pittsburgh, his MS in computer science from Vanderbilt University, and his BS in mathematics and computer science from the University of Alabama in Huntsville. He is a Fellow of the ASQ, a Certified ScrumMaster, and a Senior Member of the IEEE.</p>
+</div>
+<h3>Presentation: <strong>Software Project Management</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: This one-day morning seminar addresses the challenges, strategies, and tools for managing software projects. The seminar is structured according to the knowledge areas of the Project Management Body of Knowledge. Customer relationship management, decision making, earned value, critical path, critical chain, and agile methodologies will be discussed. Effective project management is a prerequisite for meeting commitments, yet all too many software projects fail to meet customer expectations for budget, schedule, functionality, and quality. Many customers now require their suppliers to demonstrate their commitment to process improvement and quality management by using, or being certified against, various models and standards. Project management is a fundamental requirement to achieve Level 2 against the Capability Maturity Integration (CMMI) for Development or to be certified against ISO 9001.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: The University of Denver, Ritchie School of Engineering (RM 410).</p>
+<p style="margin-left: 20px;padding-left: 10px">Date is 15 September 2018 (Saturday) 10:00 am to 12 pm.</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>12 July 18</h2>
+<div><img class=" wp-image-1474 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2019/10/Tim-Weil-264x300.jpg" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Mr. Tim Weil</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Cybersecurity Editor for IEEE IT Professional magazine</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Network Project Manager, Alcohol Monitoring Systems</p>
+<p style="margin-left: 20px;padding-left: 10px">Tim Weil is a Security Architect/IT Security Manager with over twenty five years of IT management, consulting, and engineering experience in the U.S. Government and Communications Industry. Tim's technical areas of expertise includes FedRAMP/FISMA compliance for federal agencies and cloud service providers, IT service management, cloud security, enterprise risk management (NIST) for federal agencies, and ISO 27001 compliance for commercial clients. Tim is a Senior Member of the IEEE and Cybersecurity Editor for IEEE IT Professional magazine. Tim's publications, blogs and speaking engagements are available from the website - <a href="http://securityfeeds.com">http://securityfeeds.com</a>.</p>
+</div>
+<h3>Presentation: <strong>Cyberthreats and Security</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: The landscape of cybersecurity continues to change rapidly, with new threats and attack paths that seemingly appear almost daily. At the same time, advances on the technology side have accelerated. In particular, the Internet of Things (IoT) and miniature cyber-physical systems are bringing information security concerns to every aspect of life, including clothing, kitchen appliances, and automobiles. The corporate world is also facing challenges in how to apply new technology such as the IoT and distributed ledger systems - technology that even many computer security professionals don’t fully understand. Tim's presentation highlights the May/Jun 2018 special issue of IEEE IT Professional magazine on Cyberthreats and Security highlighting articles successfully addressing advances in data analytics, forensics, threat modeling, privacy engineering, cyber-resilience and biometrics.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: The University of Denver, Ritchie School of Engineering (RM 410).</p>
+<p style="margin-left: 20px;padding-left: 10px">Date is 12 Jul 2018 6:00 pm to 9:00 pm.</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>22 June 18</h2>
+<div><img class=" wp-image-631 alignright" src="http://r5.ieee.org/denver-cs/wp-content/uploads/sites/66/sites/66/2018/12/manesh-300x274.jpg" alt="" width="200" />
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer, -and IEEE International Symposium on Information Theory presenter (Vail 2018)</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Dr. Manish Kumar Gupta</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Dhirubhai Ambani Institute of Information and Communication Technology</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Computer Science,  Mathematics, and Synthetic Biology</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr. Manish Gupta teaches computer science, biological systems, and mathematics at the Dhirubhai Ambani Institute in Kanpur India.  Dr Gupta research interests include Information processing in biology, Coding and Information theory, Cryptology, DNA and Quantum computing, Computational, Structural and Systems Biology, Synthetic Biology, Bioinformatics.</p>
+<p style="margin-left: 20px;padding-left: 10px">Dr Manish K. Gupta received his PhD degree in Mathematics in 2000 from the Indian Institute of Technology, Kanpur, India.Dr Gupta is teaching and researching at the Dhirubhai Ambani Institute as a senior professor. Previously, Dr Gupta has held various academic positions at the University of Canterbury, Christchurch, New Zealand (2000-2002); National University of Singapore, Singapore (2001); Arizona State University, USA (2002-2004); The Ohio State University, USA (2004-2005); and Queens University, Canada (2005-2006). Since 2006. Additionally, Dr Gupta has lectured, published, researched, and professionally advised companies around the world. Dr Gupta is a senior member of the IEEE and a member of IEEE Computer and IEEE Information Theory Societies.</p>
+</div>
+<h3>Presentation: <strong>The Art of DNA Strings: Data Storage</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: This one-day morning seminar addresses the of science, capabilities, and mathematical technology  surrounding DNA data storage systems. The seminar presented coding theory, error correction, encryption, and data transfer to and from DNA computational and storage devices. Digital DNA based devices are cutting edge technology and are out of the hands of many in the consumer markets. However, larger companies and research institutes are racing forward with biological and computational technology. In our computational world storage has been a fundamental need and life has chosen DNA to store the blueprint of life in more complexity then our greatest engineering efforts. the integration of biologic template in to storage is becoming a basic computing primitive as it represents information in many differing formats and digital DNA has the ability to provide more size and capability than any current technology. Modern Humans are generating data every day from digital media such as cameras, the Internet, phones, sensors and there is a pressing need for a technology that can store this data in the dense storage medium. It is predicted that soon the data generated will be in the order of Geopbytes (10^30) from the Internet of Things. Synthetic data storage seems to be the right technology emerging on the horizon.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: The University of Denver, Ritchie School of Engineering (RM 410).</p>
+<p style="margin-left: 20px;padding-left: 10px">Date is 22 June 2018 (Friday) 6:30 pm to 9:00 pm.</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h2><strong>IEEE Denver Computer, Information Theory, and Robotics Society </strong><strong> – Technical Meeting</strong></h2>
+<h2>12 April 18</h2>
+<div>
+<p style="margin-left: 20px;padding-left: 10px;font-size: large">Denver IEEE Computer Society Guest Lecturer</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: larger;font-weight: bold">Dr. Amitabh Rakshit</p>
+<p style="margin-left: 20px;padding-left: 10px;font-size: medium;font-style: italic">Founder of PreAcute PHM, Inc - Founder &amp; CEO</p>
+<p style="margin-left: 20px;padding-left: 10px">Ami Rakshit holds a PhD in Bioengineering from Texas A&amp;M University and a Masters in Computer Science from University of Massachusetts. Dr. Rakshit is the Founder and President of “PreAcute PHM, Inc.” and has been involved as a researcher, entrepreneur, and leader in healthcare for over 35 years. Dr. Rakshit is currently interested and researching Population Health Management and Disease Modeling.</p>
+</div>
+<h3>Presentation: <strong>Computers in Modern Healthcare</strong></h3>
+<p style="margin-left: 20px;padding-left: 10px">Abstract: Computers in modern Health care services and applications are ever more important and dependent to our health care workers. In healthcare, medical analysis, computation, storage and transport systems are becoming more complex and detailed. Healthcare offices are becoming a system or healthcare data systems, and they are growing at a multiple exponential with every new technology development. Computers in Modern Healthcare provide a glimpse in to the need for chemical, healthcare service, delivery, research, education, and pharmacy to become more of an ingratiated health system, growing toward our new technologies. We will need strong ethics, complexity, innovation, and technology management to ensure we provide the best computer systems for our healthcare workers.</p>
+<p style="margin-left: 20px;padding-left: 10px">Location: The University of Denver, Ritchie School of Engineering (RM 410).</p>
+<p style="margin-left: 20px;padding-left: 10px">Date is 12 April 2018 6:00 pm to 9:00 pm.</p>
+<p style="margin-left: 20px;padding-left: 10px">Invited: IEEE members, guests, students, walk-ins are welcome.</p>
+<p style="margin-left: 20px;padding-left: 10px">Cost: Free</p>
+<hr /><hr />
+<h1><span style="background-color: #00ffff">* Honors and Past Events - 2015 *</span></h1>
+<hr /><hr />
+<h3><strong>Past Presentation: </strong><strong>Jun 2015 - </strong><strong>Denver IEEE Computer Society Guest Lecturer:</strong></h3>
+<h3><strong>Joseph Webster</strong></h3>
+<h3><a title="Encryption != Protection">Presentation on: <strong>Encryption != Protection. A proposed framework for thinking about file security</strong></a></h3>
+<hr /><hr />
+<h1><span style="background-color: #00ffff">* Honors and Past Events - 2014 *</span></h1>
+<hr /><hr />
+<h3><strong>Past Presentation </strong><strong>Sep 2014 - </strong><strong>Denver IEEE Computer Society Guest Lecturer:</strong></h3>
+<h3><strong>Chris Alaimo</strong></h3>
+<h3><a title="Encryption != Protection">Presentation on: </a><strong><a title="Recent Trends in Cloud Computing">Recent Trends in Cloud Computing</a></strong></h3>
+<hr />
+<h3><strong>Past Presentation Feb 2014 - </strong><strong>Denver IEEE Computer Society Guest Lecturer:</strong></h3>
+<h3> <strong>Tim Weil </strong></h3>
+<h3><a title="Encryption != Protection">Presentation on: </a><strong><a title="Rebooting the Denver COMSOC/CS Chapters: A Program for 2014">Rebooting the Denver COMSOC/CS Chapters: A Program for 2014</a></strong></h3>
+<hr /><hr />
+<h1><span style="background-color: #00ffff">* Honors and Past Events - 2013 *</span></h1>
+<hr /><hr />
+<h3><strong>Past Presentation Oct 2013 - </strong><strong>Denver IEEE Computer Society Guest Lecturer:</strong></h3>
+<h3> <strong>Nathan Olech </strong></h3>
+<h3><a title="Encryption != Protection">Presentation on: </a><strong><a title="PlanningMyMeals web site design">Design of the PlanningMyMeals web site: using services and mashups to implement a comprehensive set of features</a></strong></h3>
+<hr />
+<h3><strong>Past Presentation Sep 2013 - </strong><strong>Denver IEEE Computer Society Guest Lecturer:</strong></h3>
+<h3><strong>Karl Neybert</strong></h3>
+<h3><a title="Encryption != Protection">Presentation on: </a><strong><a title="Abstract, Details of Meeting">Brainstorming: Getting and Using Creative Ideas</a></strong></h3>
+<hr />
+<h3><strong>Past Presentation Jun 2013 - </strong><strong>Denver IEEE Computer Society Guest Lecturer:</strong></h3>
+<h3> <strong>Dr. Ted Bickart </strong></h3>
+<h3><a title="Encryption != Protection">Presentation on: </a><strong><a title="Abstract, Details of Meeting">The Voice of the Past - The Foundation of the Future (IEEE Global History Network (GHN))</a></strong></h3>
+<hr />
+<h3><strong>Past Presentation May 2013 - </strong><strong>Denver IEEE Computer Society Guest Lecturer:</strong></h3>
+<h3> <strong>Dr. Lynn Carter </strong></h3>
+<h3><a title="Encryption != Protection">Presentation on: </a><strong><a title="Abstract, Details of Meeting">Demonstrating Competency</a></strong></h3>
+<hr />
+<h3><strong>Past Presentation Mar 2013 - </strong><strong>Denver IEEE Computer Society Guest Lecturer:</strong></h3>
+<h3> <strong>Tim Weil </strong></h3>
+<h3><a title="Encryption != Protection">Presentation on: </a><strong><a title="Abstract, Details of Meeting">Software Defined Networking (SDN), Cloud API, IPv6 Forum, Smart Grid, Machine to Machine Networks</a></strong></h3>
+<hr />
+<h3><strong>Past Presentation Feb 2013 - </strong><strong>Denver IEEE Computer Society Guest Lecturer:</strong></h3>
+<h3> <strong>Tim Weil and Pankaj Goyal </strong></h3>
+<h3><a title="Encryption != Protection">Presentation on: </a><strong><a title="Abstract, Details of Meeting">Wordpress and Electronic Communication for IEEE Geo Units</a></strong></h3>
+<hr />
+<h3><strong>Past Presentation Jan 2013 - </strong><strong>Denver IEEE Computer Society Guest Lecturer:</strong></h3>
+<h3> <strong>Tim Weil </strong></h3>
+<h3><a title="Encryption != Protection">Presentation on: </a><strong>Role Based Access Control</strong></h3>
+<hr /><hr />
+<h1><span style="background-color: #00ffff">* Honors and Past Events - 2012 *</span></h1>
+<hr /><hr />
+<h3><strong>Past Presentation Dec 2012 - </strong><strong>Denver IEEE Computer Society Guest Lecturer:</strong></h3>
+<h3> <strong>Pankaj Goyal </strong></h3>
+<h3><a title="Encryption != Protection">Presentation on: </a><strong>Cyber World Intrusion Tolerance</strong></h3>
+<hr /><!-- /wp:tadv/classic-paragraph -->
